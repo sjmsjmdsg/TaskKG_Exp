@@ -1,0 +1,289 @@
+id,truth,condition
+78,1,if you do n't have that version installed
+804,1,if you use a new resource qualifier
+1213,0,if you do
+1217,1,if all you require is the ability to read raw data -LRB- such as a video or audio file -RRB-
+1225,1,if your app supports several languages
+1231,1,if you do n't provide default resources
+1255,0,if Yes
+1453,1,if your apps later replace the placeholder value
+1524,1,if the test is successful
+1716,1,if you have a device attached
+1725,1,if the app has French strings in res/values-fr / but does not have any Spanish strings in res/values-es /
+1731,1,if the test is successful
+1849,1,if you have resource strings in a directory named values-en-rGB
+2002,1,if you plan on reading an image as a bit stream in order to convert it to a bitmap
+2265,1,if you are n't applying formatting
+2446,1,if you decide to make your code 's namespace -LRB- and thus
+2490,1,if your app can not achieve basic functionality on a device without a compass sensor
+3506,1,if it is not already in your PATH.If you are using SDK Tools r8 or higher
+3642,1,if you want to disable filtering for a particular feature
+4132,1,if you have the package name of another app
+4477,1,if you 're only using coarse location
+4478,1,if you need access to SMS messages to receive authentication codes that protect the user from fraud
+4590,0,if necessary
+4667,0,if necessary
+5440,0,if necessary .
+5623,1,if you 're converting an existing application to use multiple APK support
+5641,1,if you were to use PowerVR 99 % of the time
+5718,0,if necessary .
+5725,0,if possible
+6463,1,if an existing watch already is paired
+6476,1,if your watch lacks a USB port
+6491,1,if your app depends on a phone app
+6531,1,if you do n't see the new module 's folder
+6573,1,if you need to show persistent content on versions prior to Android 5.1
+6641,1,if your phone app is n't installed on the phone
+6966,1,if the APKs are not equivalent
+6979,1,if you want to target both SDK version 23 and version 25
+6979,1,if an existing Wear 1.x app has a minimum SDK version of 23 :
+7017,1,if a watch app is completely independent or semi-independent
+7071,1,if you use another build process
+7142,1,if you develop on macOS -LRB- r -RRB-
+7368,1,if you require more control than what is possible declaratively using XML
+7400,1,if you want to enable a circular scrolling gesture in your child view
+7549,1,if you prefer to display just the overflow icon -LRB- three vertical dots -RRB- without the first action
+7917,1,if a delay in syncing would negatively impact user experience
+8246,1,if the device has a lower resolution than your image .
+8370,1,if the user selects a white background
+8390,1,if you choose to allow the unread notification indicator to be displayed on your watch face
+8596,0,if possible
+9030,1,if you prefer to learn through interactive video training
+9188,1,if you are extending an existing app for use on TV
+9219,1,if you have an app that takes
+9282,1,if motion detection is not supported
+9351,0,if necessary .
+9401,1,if you decide you want users to move through your layouts in a specific way
+9502,1,if you are planning on updating the background in response to users scrolling through items
+9642,1,if your activity contains only GuidedStepFragment objects
+9719,1,if you need to present a multi-page UI that requires user input
+9759,1,if you want to display a Drawable as your logo screen
+9761,1,if you want to provide a custom animation for your logo screen
+10035,1,if you stich ads on the server side
+10043,1,if you create a preview using any of the video types supported by ExoPlayer and the preview is publicly accessible
+10065,1,if your identifier is not type Long
+10383,1,if you need to do any special channel initialization before the program starts playing .
+10535,1,if a given content is blocked by parental controls and content rating
+10577,1,if your content is already stored in the cloud and your app can manage time-shifting recordings in the cloud
+10588,1,if your TV input service can not support time-shifting at all
+10716,1,if you prefer to learn through interactive video training
+10763,1,if your application uses multiple car capabilities
+10876,1,if the caller ca n't be verified to be an approved package
+11596,1,if you prefer to manually flash your board
+11801,1,if they are already bonded with the local device .
+12439,1,if your input device emits multiple input events rapidly
+12464,1,if available -RRB- of your sensor to the builder .
+12491,1,if the hardware is reset for any reason
+12745,1,if you are not already on this tab
+12801,1,if you are not already on this tab
+12980,1,if a channel had no active devices or published OTA update -RRB- .
+13085,1,if you think somebody is violating your or your End Users ' copyrights and want to notify Google
+13214,1,if you think somebody is violating your or your End Users ' copyrights and want to notify Google
+13443,1,if your device supports USB debugging
+13740,1,if these instructions do n't work for you
+13851,1,if you want to add top-levelviews
+13949,1,if your device is in developer mode
+13979,1,if you do not already have the required SDK Platform component installed for the AVD
+13988,1,if you are having trouble with a managed account
+14045,1,if the window resize button is available
+14163,1,if the window resize button is available
+14304,1,if one of the above actions test cases does not fit
+14773,1,if your UI data is simple and lightweight
+15035,1,if the filter is missing : An intent launches a `` singleTask '' activity
+15528,1,if you have not used the Support Library before
+15768,1,if you want to return a result to the activity that invoked yours
+16052,1,if you fetch the data from another thread
+16288,1,if a device is in freeform mode and you are launching a new activity
+16538,1,if this behavior is not desirable
+16723,1,if your widget is freely resizable or if it is constrained to horizontal or vertical size changes .
+17000,1,if the user touches the top view
+17349,1,if the method does n't exist or its signature is incorrect
+17375,1,if you need to use an expression with a predicate -LRB- for example
+17522,1,if necessary .
+18040,1,if you are using Gradle
+18251,1,if the number of items in the list can become large .
+18328,1,if you use an in-memory list as the backing data structure for your UI 's adapter
+18407,1,if you 'd like more control over when the Paging Library loads a list from your app 's database
+18580,0,if you wish
+18733,1,if the system stops and then recreates the UI Controller.Instead of storing complex objects here
+19467,1,if you want toshow the user a location on a map
+19528,1,if you have content that you want the user to share with other people
+19634,1,if a filter specifies a scheme
+19676,1,if the service is designed with a client-server interface
+19688,1,if you want toshow the user a location on a map
+19993,0,if appropriate
+20600,1,if the list needs an update
+20620,1,if you want to provide custom animations
+20694,1,if the UI is in single-pane mode :
+20935,1,if `` view2 '' is the last view declared in the hierarchy .
+21010,0,if you need to .
+21017,1,if there is a component that is already very similar to what you want
+21046,1,if your custom View component is not defined as an inner class
+21163,1,if your custom View component is not defined as an inner class
+21286,1,if you need finer control over your view 's layout parameters
+21334,1,if you only want to process a few gestures
+21974,1,if you are using AppCompat
+22095,1,if you need to attach a small number of spans to a single text object
+22156,1,if you need more functionality than what is provided in the existing Android spans
+22484,1,if you want your notification to be longer
+22731,1,if you want your notification to be longer
+22788,1,if you can estimate how much of the operation is complete at any time
+22987,1,if you 'd like to further organize the appearance of your channels in the settings UI
+23197,1,if you 're familiar with the Android Design Guide
+23223,1,if you want to programmatically clear flags set with setSystemUiVisibility -LRB- -RRB-
+23328,1,if you want the auto-hiding behavior of sticky immersive mode
+23746,1,if you want to override some styles in this theme
+23871,1,if you want to jump ahead and see a full working example
+23978,1,if user response to a status message is required
+23991,1,if you decide that the toast should appear in the top-left corner
+23994,1,if a simple text message is n't enough
+24162,1,if you want the DialogFragment to be embeddable
+24232,0,if necessary
+24254,1,if you want to add menu items to one of the descendant activities
+24468,1,if you want to provide dividers with headings between groups of settings -LRB- as shown in figure 2 -RRB-
+24706,1,if you must log it
+24737,1,if you want to handle all user input yourself
+24835,1,if you want every activity in your application to provide the search dialog
+24871,1,if you want to refine your search criteria based on the activity from which the user is performing a search
+25319,1,if you are copying data using a content URI
+25344,1,if the ClipData.Item object contains a content URI and you have determined that you can handle one of its MIME types
+25354,0,if it does
+25378,1,if you 're already using a content provider
+25763,1,if the target value changes
+25877,1,if you have the rights to do so .
+26243,1,if you want to jump ahead and see a full working example
+26348,1,if you choose to provide a fixed value as the start of the velocity
+26730,1,if you plan on reading an image as a bitstream in order to convert it to a bitmap
+26903,1,if you generate the palette asynchronously on a different thread
+27167,1,if you want to access these properties
+27231,1,if you want to start building an app with OpenGL ES right away
+27237,1,if your application is exclusively for devices that support OpenGL ES 3.0
+27889,1,if present -RRB- to be the same as the combined Dolby Vision layer 's track index .
+28312,1,if you are running Android 5.0 -LRB- API level 21 -RRB- or later
+28464,1,if it `` ducks '' -LRB- lowers -RRB- its audio output .
+28987,0,if it is not
+29323,1,if you want to play some music
+29392,1,if that 's what you want
+29529,1,if you want to play some music
+29725,1,if an operation is running in an IntentService
+29862,1,if it 's important that your service be multi-threaded
+29938,1,if you do not need to perform concurrent IPC across different applications
+30192,1,if you register within an Activity context
+30239,1,if you do n't need to send broadcasts to components outside of your app
+30267,1,if there is more than one receiver .
+30312,1,if your app is synchronizing data from an external server
+30331,1,if you want to keep the screen on in your activity
+30335,1,if your app includes a broadcast receiver that uses a service to do some work
+30622,1,if you want to hide your files from the Media Scanner
+30625,1,if you want to save files on external storage that are private to your app and not accessible by the MediaStore content provider
+30650,0,if one occurs .
+30678,1,if you need just one shared preference file for your activity
+30763,1,if the entity has a composite primary key
+30779,1,if there 's another entity called Book
+30781,1,if the corresponding instance of User is deleted by including onDelete = CASCADE in the @ForeignKey annotation .
+30788,1,if an entity has multiple embedded fields of the same type
+30851,1,if your app 's logic requires direct access to the return rows
+31016,1,if this activity can be started from other parts of the system
+31146,1,if you call getUriForFile -LRB- -RRB- for a File in a path that you have n't specified
+31275,1,if you can define the URIs to transfer before the NFC touch event occurs .
+31298,1,if you want to copy transferred files to your app 's own storage area
+31767,1,if your application does n't have access permissions
+31879,1,if you are working with unstructured data such as audio
+31971,1,if you are using an SQLite database as your data storage
+32154,1,if you want your appto simply read/import data .
+32156,1,if you want yourapp to have long term
+32190,1,if all you need is write :
+32303,1,if your document provider streams files or handles complicated data structures
+32394,1,if it uses any of the following features
+32505,1,if autofill is available to the user .
+32575,1,if the value of a child changes
+32640,1,if the service is n't the one you want to use in your test
+33089,1,if the user has one set of personal contacts for a personal account name
+33116,1,if you retrieve multiple contact rows
+33116,1,if one of them is the user profile
+33329,1,if this element already exists
+33336,1,if you already have this file
+33596,1,if you do use yield points
+33638,1,if the user is inserting or updating data
+34206,1,if your app is not installed in an OEM system image and you do n't plan to put your app in an OEM system image in the future
+34367,1,if you want your app to save its state
+34584,1,if your data has changed
+34627,1,if ference in your onRestore -LRB- -RRB- method and take any steps necessary to make the data compatible if the versions conflict .
+34642,0,if necessary .
+34733,1,if theversion on the device is different than that of the backup data .
+34756,1,if your data has changed
+34814,0,if necessary .
+35268,1,if your authenticator activity needs any special initialization parameters
+35370,1,if your app can manage the extra delay inresponsiveness .
+36001,1,if a gesture occurred .
+36003,1,if your app uses common gestures such as double tap
+36293,1,if you 'd like an input method for entering a phone number
+36294,1,if the text field is for a password
+36308,1,if you want to provide suggestions to users as they type
+36335,1,if there is a method in your activity 's lifecycle where you want to ensure that the input method is visible
+36373,1,if you encounter any instances where navigating with the Tab key or direction controls does not do what you expect
+36571,1,if the device ID is new
+36679,1,if your IME does text prediction or requires multiple steps to compose a glyph or word
+36730,1,if the IME is in a hidden state for a few seconds .
+36804,1,if your IME does text prediction or requires multiple steps to compose a glyph or word
+36964,1,if you just need a way for the user to capture a photo
+36982,1,if your application uses
+37033,1,if your application uses
+37266,1,if you are targeting devices with earlier versions of Android
+37503,1,if your application uses a particular sensor
+37519,1,if your application matches sensor data to the on-screen display
+37592,1,if you want to try these sensors
+38773,1,if your entire activity 's user interface is non-functional without network access
+38833,1,if absolutely required .
+38926,1,if you 're already storing local data in another form
+38952,1,if your app uses a content provider to store data
+39067,1,if you still want to run the sync adapter on demand
+39225,1,if you would like to make the local device discoverable to other devices
+39238,1,if you would like to be notified when the discoverable mode has changed
+39308,1,if your app needs to determine whether device discovery is in progress
+39491,1,if you would like to make the local device discoverable to other devices
+39504,1,if you would like to be notified when the discoverable mode has changed
+39651,1,if you want to declare that your app is available to BLE-capable devices only
+39652,1,if you want to make your app available to devices that do n't support BLE
+39881,1,if you want to handle an intent at the Activity level
+39885,1,if the Activity that filters for the intent does not match theAAR
+39885,1,if multiple Activities can handle the intent
+39926,1,if your Activity only needs topush the same NDEF message at all times
+40216,1,if you wish to create your own ConnectionService based calling solution
+40334,1,if the useraccepts the incoming call
+40363,1,if the other party terminated the call .
+40561,0,if Wi-Fi Direct
+40812,1,if you want to install the add-on
+40827,1,if you are using the add-on library
+40828,1,if you are using the add-on library or 12 if you are using the android.hardware.usb package .
+40974,1,if the device was detached
+41103,1,if you 're developing an Android application that does n't transmit sensitive or personal information but requires messages to be transferred reliably
+41119,1,if you do n't care about broadcasting your app 's services over the local network
+42168,1,if you need to send data from the RenderScript runtime to the Android framework layer
+42392,0,if possible
+42528,0,if possible
+42605,1,if your app falls into the following use cases :
+42608,1,if you want to provide users with faster page loading
+42626,1,if you want to display occasional third-party web content
+42986,1,if you 're using Android Studio
+42997,1,if you want to see the library in action
+43093,1,if you want to see the library in action
+43162,1,if you 're not using Android Studio
+43180,1,if you use standard practicesto organize alternative
+43216,1,if yourequire certain permissions or services as soon as a dynamic feature moduleis downloaded
+43279,1,if you want this module to be availableto devices running Android 4.4 -LRB- API level 20 -RRB- and lower and include it inmulti-APKs .
+43381,1,if you already have your app project open in the IDE and you want to simply test building an app bundle
+43404,1,if you 'd rather generate an app bundle from the command line
+43409,1,if you instead want to sign an app bundle as a separate step
+43575,1,if you do n't want your Application class to extend SplitCompatApplication
+43576,1,if your on demand module is compatible with both instant apps and installed apps
+43577,1,if it were a part of the base APK .
+43991,1,if you compile using gcc
+44117,1,if any large resources remain in your app
+44848,1,if you follow the recommended project structure
+44910,1,if you 're a game developer
+45074,1,if your project uses the legacy support libraries
+45076,1,if you are using the legacy support library
+45154,1,if you have Slice content that can not be loaded quickly
+45163,1,if scrolling is disabled
+45224,1,if your app 's testing environment requires unit tests to interact more extensively with the Android framework

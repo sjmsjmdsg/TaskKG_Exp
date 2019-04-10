@@ -1,0 +1,333 @@
+id,truth,activity,api
+2071,1,call reverseTransition ( ) .,reverseTransition ( )
+4313,1,call the ContextCompat.checkSelfPermission ( ) method .,ContextCompat.checkSelfPermission ( )
+4679,1,query whether a feature is available by calling hasSystemFeature ( ) like this :,hasSystemFeature ( )
+5029,1,confirm itslocation by using View.getLocationInWindow ( ) .,View.getLocationInWindow ( )
+6214,1,add other actions by passing a PendingIntent to the addAction ( ) method .,addAction ( )
+6694,1,issue the notification using the notify ( ) method .,notify ( )
+7400,1,use the WearableRecyclerView 's setCircularScrollingGestureEnabled ( ) method .,setCircularScrollingGestureEnabled ( )
+7546,1,call getController ( ) for access to peekDrawer ( ),getController ( )
+7566,1,implement the onKeyDown ( ) method .,onKeyDown ( )
+7933,1,call setUrgent ( ) .,setUrgent ( )
+8006,1,call the Node.isNearby ( ) method .,Node.isNearby ( )
+8097,1,implement onDataChanged ( ),onDataChanged ( )
+8288,1,call the invalidate ( ) method throughout your implementation when you want the system to redraw the watch face .,invalidate ( )
+8289,1,use the invalidate ( ) method,invalidate ( )
+8290,1,call the postInvalidate ( ) method .,postInvalidate ( )
+8613,1,call the ComplicationDrawable.setBurnInProtection ( ) method when the device properties are received .,ComplicationDrawable.setBurnInProtection ( )
+8761,1,override the onApplyWindowInsets ( ) method,onApplyWindowInsets ( )
+8768,1,use the WatchFaceService.Engine.getPeekCardPosition ( ) method .,WatchFaceService.Engine.getPeekCardPosition ( )
+8773,1,use the setHotwordIndicatorGravity ( ) method .,setHotwordIndicatorGravity ( )
+8966,1,use the shouldShowRequestPermissionRationale ( ) method to help your app decide whether to provide more information .,shouldShowRequestPermissionRationale ( )
+9519,1,implement an onCreateViewHolder ( ) callback that creates a view holder that can be used to display a content item .,onCreateViewHolder ( )
+9568,1,use setAdapter ( ) to add a related videos row .,setAdapter ( )
+9640,1,override onCreateGuidance ( ),onCreateGuidance ( )
+9641,1,add your GuidedStepFragment subclass to your desired activity by calling GuidedStepFragment.add ( ),GuidedStepFragment.add ( )
+9653,1,add an editable text action by setting editable ( true ) .,editable ( true )
+9690,1,use popBackStackToGuidedStepFragment ( ) to return to a specific GuidedStepFragment,popBackStackToGuidedStepFragment ( )
+9761,1,override onCreateLogoAnimation ( ),onCreateLogoAnimation ( )
+9791,1,call requestVisibleBehind ( ) .,requestVisibleBehind ( )
+10065,1,build the URI using Uri.withAppendedPath ( ) :,Uri.withAppendedPath ( )
+10492,1,create the URIusing toUri ( int ),toUri ( int )
+10532,1,call TvInputService.Session.notifyVideoAvailable ( ) to allow the video to display,TvInputService.Session.notifyVideoAvailable ( )
+10538,1,notify the system TV app by calling the TvInputService.Session method notifyContentAllowed ( ) or notifyContentBlocked ( ),notifyContentAllowed ( )
+11109,1,set an override icon or color for the CarExtender by calling setLargeIcon ( ) or setColor ( ) .,setLargeIcon ( )
+11450,2,select API 27 : Android 8.1 ( Oreo ) .,8.1 ( Oreo )
+11849,1,call initiatePairing ( ),initiatePairing ( )
+11895,1,call the join ( ) method of class LowpanInterface,join ( )
+11961,1,use the setChannel ( ) method to subscribe your device to a different update channel,setChannel ( )
+12020,1,return true from within onGpioEdge ( ) to indicate that the listener should continue receiving events for each port state change .,onGpioEdge ( )
+12115,2,master Out Slave In ( MOSI ),In ( MOSI )
+12454,1,override the read ( ) method .,read ( )
+12458,1,override the setEnabled ( ) method of your driver implementation to activate them .,setEnabled ( )
+13851,1,add them to the view you have set as Activity.setContentView ( ) .,Activity.setContentView ( )
+14688,1,use the onPause ( ) method to pause operations that should not continue (,onPause ( )
+15207,1,add a fragment using the add ( ) method,add ( )
+15277,1,preserve the UI state of a fragment across configuration changes and process death using a combination of onSaveInstanceState ( Bundle ),onSaveInstanceState ( Bundle )
+15571,1,call getSupportFragmentManager ( ) to get a FragmentManager using the Support Library APIs .,getSupportFragmentManager ( )
+15572,1,call add ( ) to add a fragment .,add ( )
+15768,1,call setResult ( ) to specify the result code and result Intent .,setResult ( )
+15777,1,call setResult ( ) and pass only a result code .,setResult ( )
+16279,1,call Activity.enterPictureInPictureMode ( ) .,Activity.enterPictureInPictureMode ( )
+16288,1,specify the new activity 's dimensions and screen location by calling ActivityOptions.setLaunchBounds ( ) .,ActivityOptions.setLaunchBounds ( )
+16459,1,update : Use the updateShortcuts ( ) method .,updateShortcuts ( )
+16460,1,remove : Remove a set of dynamic shortcuts using removeDynamicShortcuts ( ),removeDynamicShortcuts ( )
+16523,1,update ranks of existing shortcuts when you call updateShortcuts ( List ),updateShortcuts ( List )
+16875,1,perform your own updates to the App Widget without worrying about the AppWidgetProvider closing down due to an Application Not Responding ( ANR ) error .,Responding ( ANR )
+16891,1,pass in null as the third argument to requestPinAppWidget ( ) .,requestPinAppWidget ( )
+17439,2,get ( ) accessor methods,>>> ( )
+17607,1,provide your custom logic when an observer subscribes or unsubscribes to notifications using the addOnPropertyChangedCallback ( ) and removeOnPropertyChangedCallback ( ) methods .,addOnPropertyChangedCallback ( )
+18033,1,use the getArguments ( ) method toretrieve the bundle and use its contents :,getArguments ( )
+18064,1,use this class 's fromBundle ( ) methodto retrieve the arguments .,fromBundle ( )
+18591,1,call WorkRequest.Builder.addTag ( ),WorkRequest.Builder.addTag ( )
+18711,1,use onSaveInstanceState ( ) to store a minimal amount of data necessary,onSaveInstanceState ( )
+18752,1,pass the queryfrom the onSaveInstanceState ( ) bundleto the ViewModel,onSaveInstanceState ( )
+19139,1,update references of setList ( ) to submitList ( ),setList ( )
+19352,1,use the fallbackToDestructiveMigration ( ) method,fallbackToDestructiveMigration ( )
+19547,1,create an Intent using createChooser ( ),createChooser ( )
+21307,1,draw the shape using drawPath ( ) .,drawPath ( )
+21311,1,draw bitmaps using drawBitmap ( ) .,drawBitmap ( )
+21686,1,clip a view to its outline area using the View.setClipToOutline ( ) method or the android : clipToOutline attribute .,View.setClipToOutline ( )
+21688,1,call the View.setClipToOutline ( ) method .,View.setClipToOutline ( )
+22311,1,use the setChecked ( boolean ) or toggle ( ) method .,setChecked ( boolean )
+22319,1,use the CompoundButton.setChecked ( ) or CompoundButton.toggle ( ) method .,CompoundButton.setChecked ( )
+22820,1,call cancelAll ( ),cancelAll ( )
+22873,1,call setLargeIcon ( ) to set the album artwork .,setLargeIcon ( )
+22922,1,call setGroup ( ),setGroup ( )
+22935,1,add the summary notification to the group by calling setGroup ( ) .,setGroup ( )
+23036,1,call setStyle ( ),setStyle ( )
+23038,1,call setCustomContentView ( ) to set the layout for the collapsed notification .,setCustomContentView ( )
+23143,1,call the app bar 's setDisplayHomeAsUpEnabled ( ) method .,setDisplayHomeAsUpEnabled ( )
+23181,1,pass a member of that class to setOnActionExpandListener ( ) .,setOnActionExpandListener ( )
+23822,1,begin the target activity by calling startActivities ( ),startActivities ( )
+23896,1,call setPageTransformer ( ),setPageTransformer ( )
+24073,1,use one of the SetAction ( ) methods to attach the listener to your Snackbar .,SetAction ( )
+24155,1,get the FragmentManager by calling getSupportFragmentManager ( ),getSupportFragmentManager ( )
+24233,1,override onCreateOptionsMenu ( ) ( fragments provide their own onCreateOptionsMenu ( ) callback ) .,onCreateOptionsMenu ( )
+24891,1,do so by calling setSearchableInfo ( ),setSearchableInfo ( )
+24967,1,call saveRecentQuery ( ) each time your searchable activity receives a query .,saveRecentQuery ( )
+25247,1,call the loadDictionary ( ) method wherever appropriate to populate the table .,loadDictionary ( )
+25351,1,test to see if the URI is a content URI by calling getType ( Uri ) .,getType ( Uri )
+25354,1,call ContentResolver.query ( ) to get the data .,ContentResolver.query ( )
+25358,1,call getIntent ( ) to copy the Intent to your own storage .,getIntent ( )
+25405,1,set up the query ( ) method .,query ( )
+25407,1,set up the getType ( ) method to return an appropriate MIME type for copied data :,getType ( )
+25940,1,use the AnimatorInflater.loadStateListAnimator ( ) method,AnimatorInflater.loadStateListAnimator ( )
+26230,1,call the setMinimumVisibleChange ( ) method,setMinimumVisibleChange ( )
+26327,1,call the addEndListener ( ) method,addEndListener ( )
+26387,1,call the setStiffness ( ) method,setStiffness ( )
+26422,1,set the rest position of the spring by calling the setFinalPosition ( ) method .,setFinalPosition ( )
+26564,1,call the TransitionInflater.from ( ) method,TransitionInflater.from ( )
+26570,1,remove the search button when the user clicks it by calling the ViewGroup.removeView ( ) method,ViewGroup.removeView ( )
+26570,1,add the search results by calling ViewGroup.addView ( ) method .,ViewGroup.addView ( )
+26577,1,call the TransitionManager.beginDelayedTransition ( ) method providing the parent view of all the viewsyou want to change and the transition to use .,TransitionManager.beginDelayedTransition ( )
+26593,1,implement the TransitionListener.onTransitionEnd ( ) method,TransitionListener.onTransitionEnd ( )
+26745,1,retrieve the object by calling Resources.getDrawable ( ),Resources.getDrawable ( )
+27832,1,call the isWideGamut ( ) method .,isWideGamut ( )
+28077,1,pass the new instance to the media session by calling setPlaybackState ( ) or setMetaData ( ) .,setPlaybackState ( )
+28215,1,use setMediaSession ( ) to associate the notification,setMediaSession ( )
+28217,1,use setShowActionsInCompactView ( ) to add up to 3 actions to be shown inthe notification 's standard sized contentView .,setShowActionsInCompactView ( )
+28242,1,modify its onConnected ( ) method to retrieve the media session token,onConnected ( )
+28357,1,call MediaControllerCompat.setMediaController ( ),MediaControllerCompat.setMediaController ( )
+28423,1,call requestAudioFocus ( ) immediately before starting to playand verify that the call returns AUDIOFOCUS_REQUEST_GRANTED .,requestAudioFocus ( )
+28453,1,call setOnAudioFocusChangeListener ( ) to register the listener,setOnAudioFocusChangeListener ( )
+28472,1,call abandonAudioFocus ( ) .,abandonAudioFocus ( )
+28933,1,prepare the DRM configuration for the current source by calling prepareDrm ( ) .,prepareDrm ( )
+28993,1,set the audio encoder using setAudioEncoder ( ) .,setAudioEncoder ( )
+28994,1,complete the initialization by calling prepare ( ) .,prepare ( )
+28995,2,stop ( ) respectively .,>>> ( )
+29208,1,override the handleMessage ( ) method .,handleMessage ( )
+29320,1,reduce the risk of Application Not Responding ( ANR ) errors,Responding ( ANR )
+29418,1,use stopSelf ( int ) to ensure that your request to stop the service is always based,stopSelf ( int )
+29419,1,pass the ID of the start request ( the startId delivered to onStartCommand ( ) ) to which your stop request corresponds .,onStartCommand ( )
+29462,1,call startForeground ( ) .,startForeground ( )
+29624,1,use stopSelf ( int ) to ensure that your request to stop the service is always based,stopSelf ( int )
+29772,1,call getInstance ( ) .,getInstance ( )
+29971,1,override onBind ( ) to return your implementation of the Stub class .,onBind ( )
+30066,1,call Context.bindService ( ),Context.bindService ( )
+30570,1,use the File ( ) constructor,File ( )
+30632,1,remember that getExternalFilesDir ( ) creates a directory that is deleted when the user uninstalls your app .,getExternalFilesDir ( )
+30639,1,access both locations by calling getExternalFilesDirs ( ),getExternalFilesDirs ( )
+30678,1,use the getPreferences ( ) method :,getPreferences ( )
+30737,1,acquire an instance of Database bycalling Room.databaseBuilder ( ) or Room.inMemoryDatabaseBuilder ( ) .,Room.databaseBuilder ( )
+31037,1,use setShareIntent ( ) to update the share intent associated,setShareIntent ( )
+31152,1,avoid calling Context.grantUriPermission ( ) method for a file 's content URI,Context.grantUriPermission ( )
+31165,1,call finish ( ) .,finish ( )
+31608,1,call ContentResolver.query ( ) .,ContentResolver.query ( )
+31745,1,determine the data type by calling Cursor.getType ( ) .,Cursor.getType ( )
+31971,1,return the Cursor returned by one of the query ( ) methods of the SQLiteDatabase class .,query ( )
+32314,1,call openDocument ( ) to write to the new file .,openDocument ( )
+32507,1,call the isEnabled ( ) method of the AutofillManager object .,isEnabled ( )
+32567,1,increase the child count of the view structure by calling addChildCount ( ) .,addChildCount ( )
+32851,1,provide the _ ID of the calendar either as an appended ID to the Uri ( withAppendedId ( ) ) or as the first selection item .,withAppendedId ( )
+33206,1,call withExpectedCount ( ) to ensure that only one row is tested by this assertion .,withExpectedCount ( )
+33625,1,call withExpectedCount ( ) to ensure that only one row is tested by this assertion .,withExpectedCount ( )
+33865,1,bind it to the ListView by calling the method setOnItemClickListener ( ),setOnItemClickListener ( )
+33929,1,implement onLoadFinished ( ) and onLoaderReset ( ) .,onLoadFinished ( )
+34212,1,get a reference to an AccountTransferClient object by calling either getAccountTransferClient ( Context ) or getAccountTransferClient ( Activity ) .,getAccountTransferClient ( Context )
+34471,1,implement a BackupAgent that overrides onFullBackup ( FullBackupDataOutput ) to store what you want .,onFullBackup ( FullBackupDataOutput )
+34589,1,call writeEntityHeader ( ),writeEntityHeader ( )
+34612,1,call readEntityData ( ),readEntityData ( )
+34761,1,call writeEntityHeader ( ),writeEntityHeader ( )
+34814,1,request a restore operation by calling requestRestore ( ),requestRestore ( )
+34945,1,ensure the identifier can not be connected to personally identifiable information ( PII ),information ( PII )
+35139,1,use that instance to call getAccountsByType ( ) .,getAccountsByType ( )
+35334,1,use the setinterval ( ) method to specify the interval,setinterval ( )
+35375,1,use the setPriority ( ) method,setPriority ( )
+35517,1,is in place you can start the regular updates by calling requestLocationUpdates ( ) .,requestLocationUpdates ( )
+35597,1,use the getAddressLine ( ) method that is provided by the Address class .,getAddressLine ( )
+35770,1,register for activity transition updates by passing your instance of ActivityTransitionRequest and your PendingIntent object to the requestActivityTransitionUpdates ( ) method .,requestActivityTransitionUpdates ( )
+35776,1,implementing the onReceive ( ) method to get the list of activity transition events .,onReceive ( )
+35935,1,change this with setFocusableInTouchMode ( ) .,setFocusableInTouchMode ( )
+36047,1,find the size of a gesture 's history by calling the MotionEvent method getHistorySize ( ) .,getHistorySize ( )
+36458,1,call getAxis ( ) to get its axis ID .,getAxis ( )
+36569,1,override the onGenericMotionEvent ( ) method .,onGenericMotionEvent ( )
+37158,1,set this in the surfaceChanged ( ) method as noted,surfaceChanged ( )
+37429,1,create an instance of the SensorManager class by calling the getSystemService ( ) method,getSystemService ( )
+38307,2,call stop ( ),>>> ( )
+38663,1,tag your app 's use of network traffic by adding the setThreadStatsTag ( int ) method to each execution thread,setThreadStatsTag ( int )
+39205,1,call getBondedDevices ( ) .,getBondedDevices ( )
+39526,1,get a BluetoothServerSocket by calling listenUsingRfcommWithServiceRecord ( ) .,listenUsingRfcommWithServiceRecord ( )
+39671,1,call isEnabled ( ) to check whether Bluetooth iscurrently enabled .,isEnabled ( )
+39924,1,call setNdefPushMessage ( ),setNdefPushMessage ( )
+39926,1,use setNdefPushMessage ( ),setNdefPushMessage ( )
+39985,1,call the Object.class.getName ( ) method to obtain the class of the technology that you want to support .,Object.class.getName ( )
+40363,1,call the setDisconnected ( DisconnectCause ) sending LOCAL as the parameter,setDisconnected ( DisconnectCause )
+40364,1,call the destroy ( ) method .,destroy ( )
+40942,1,use the getDeviceList ( ) method to get a hash map of all the USB devices that are connected .,getDeviceList ( )
+41194,1,call discoverPeers ( ) .,discoverPeers ( )
+41206,1,modify your broadcast receiver 's onReceive ( ) method to call requestPeers ( ) when an intent,onReceive ( )
+41224,1,use the connect ( ) method,connect ( )
+41405,2,get ( ) method.The copy,>>> ( )
+41405,2,get ( ) methods are synchronous .,>>> ( )
+41873,2,reduce ( kernelName ) ( mandatory ) : Specifies that a reduction kernel isbeing defined .,>>> ( kernelName )
+41968,2,get ( ) is synchronous .,>>> ( )
+41984,2,get ( ),>>> ( )
+42168,1,use the rsSendToClient ( ) function to overcome this limitation .,rsSendToClient ( )
+42350,1,following call sets / / a.x to sin ( b.x ),sin ( b.x )
+42711,1,use canGoForward ( ) to check whether there is a forward history .,canGoForward ( )
+45648,1,call the onData ( ) method to obtain a DataInteraction object to access the target view element .,onData ( )
+45691,1,call the ViewInteraction.check ( ) or DataInteraction.check ( ) method to assert that the view,ViewInteraction.check ( )
+45869,1,add the @RunWith ( AndroidJUnit4.class ) annotation,@RunWith ( AndroidJUnit4.class )
+46319,1,override the matchesSafely ( ) method,matchesSafely ( )
+47617,1,use the reportFullyDrawn ( ) method to measure the elapsed time between application launch,reportFullyDrawn ( )
+47820,2,delete ( ),>>> ( )
+47820,2,update ( ),>>> ( )
+49047,2,assume get ( ),>>> ( )
+49047,2,incr ( ) are called,>>> ( )
+49315,1,return the same pointer that was originally returned by Get ... ArrayElements ( ) .,ArrayElements ( )
+49662,1,change the device 's accessibility audio volume by calling the adjustStreamVolume ( ) method,adjustStreamVolume ( )
+49688,1,call the isGestureDetectionAvailable ( ) method,isGestureDetectionAvailable ( )
+49828,1,use the onInitializeAccessibilityEvent ( ) method for populating additional information about the event,onInitializeAccessibilityEvent ( )
+50061,1,obtain an AccessibilityValidator object by calling the enable ( ) method of the AccessibilityChecks class,enable ( )
+50489,1,verify the application that accesses the AccountManager using checkSignature ( ) .,checkSignature ( )
+51083,1,call its getDetectedThreats ( ) method,getDetectedThreats ( )
+51256,1,inspect the return value of KeyInfo.isInsideSecurityHardware ( ) .,KeyInfo.isInsideSecurityHardware ( )
+51368,1,use a KeyStore object 's getCertificateChain ( ) method to get a reference to the chain of X. 509 certificates associated,getCertificateChain ( )
+51590,1,create an intent by calling the StorageVolume.createAccessIntent ( ) method of that instance .,StorageVolume.createAccessIntent ( )
+51608,1,returned ContentResolver call takePersistableUriPermission ( ),takePersistableUriPermission ( )
+51660,1,connect with leading enterprise mobility management ( EMM ) partners to help integrate Android,management ( EMM )
+52091,1,disable the status bar using setStatusBarDisabled ( ),setStatusBarDisabled ( )
+52207,1,call the device policy manager 's setProfileEnabled ( ) method to activate the work profile :,setProfileEnabled ( )
+52234,1,call the DevicePolicyManager.setApplicationRestrictions ( ) method,DevicePolicyManager.setApplicationRestrictions ( )
+52344,1,call the DevicePolicyManager.setApplicationRestrictions ( ) method,DevicePolicyManager.setApplicationRestrictions ( )
+52418,1,override onActivityResult ( ) to see if provisioning was successful :,onActivityResult ( )
+52578,1,use getAffiliationIds ( ) to fetch any affiliation IDs your DCP might have set .,getAffiliationIds ( )
+52610,1,use the setShortSupportMessage ( ) method .,setShortSupportMessage ( )
+52657,1,use DevicePolicyManager.setCrossProfileContactsSearchDisabled ( ) .,DevicePolicyManager.setCrossProfileContactsSearchDisabled ( )
+52869,1,pass null or an empty string to resetPasswordWithToken ( ) to remove the password .,resetPasswordWithToken ( )
+53099,1,call getProfileSwitchingIconDrawable ( ) to get an icon that you can use to represent another profile .,getProfileSwitchingIconDrawable ( )
+53101,1,call startMainActivity ( ) to launch an instance ofyour app,startMainActivity ( )
+53112,1,call ActivityOptions.setLockTaskEnabled ( ) to launch awhitelisted app,ActivityOptions.setLockTaskEnabled ( )
+53122,1,call DevicePolicyManager.getLockTaskFeatures ( ) to get the list of features available,DevicePolicyManager.getLockTaskFeatures ( )
+53144,1,use DevicePolicyManager.setStartUserSessionMessage ( ) to set the message that 's displayed to a user when the user 's session begins .,DevicePolicyManager.setStartUserSessionMessage ( )
+53153,1,call DevicePolicyManager.setKeepUninstalledPackages ( ) to specify the list of packages to keep as APKs .,DevicePolicyManager.setKeepUninstalledPackages ( )
+53176,1,call DevicePolicyManager.addUserRestriction ( ),DevicePolicyManager.addUserRestriction ( )
+53266,1,call SecurityEvent.getId ( ),SecurityEvent.getId ( )
+53706,1,use setMaximumFailedPasswordsForWipe ( ) to state that a device should be wiped after a specific number of failed password attempts .,setMaximumFailedPasswordsForWipe ( )
+53715,1,use the setStorageEncryption ( ) method to set a policy requiring encryption of the storage area,setStorageEncryption ( )
+53935,1,override the onSkuDetailsResponse ( ) method which notifies the listener when the query finishes,onSkuDetailsResponse ( )
+54026,1,use the queryPurchases ( ) method whenever possible,queryPurchases ( )
+54083,1,call the launchBillingFlow ( ) method,launchBillingFlow ( )
+54176,1,call the consumeAsync ( ) method,consumeAsync ( )
+54473,1,use the getSkuDetails ( ) method to obtain product details for a corresponding list of product IDs .,getSkuDetails ( )
+55230,2,calling connect ( ),>>> ( )
+55745,1,call your LicenseChecker 's onDestroy ( ) method to close IPC connections .,onDestroy ( )
+45615,1, use the ViewAssertions methods to check that the UI reflects the expected state or behavior,ViewAssertions
+45754,1, get a UiObject object to access a UI component that is displayed,UiObject
+46865,1, update Until.scrollFinished LRB RRB to return true,scrollFinished
+6504,2, choose a Google Account to add and sync to your watch .,Google
+49891,1, use getEventType LRB RRB to determine the type of event,getEventType
+49986,2, press On/Off to turn on Switch Access .,Off
+50716,1, use that SSLSocketFactory to create your SSLSocket .,SocketFactory
+51955,1, use the RestrictionsManager object to check the current managed configurations,RestrictionsManager
+52080,2, read Quickstart to get started with the Android Management API .,Quickstart
+6736,1, override the getAmbientCallback LRB RRB method to provide the callbacks needed for reacting to ambient events,getAmbientCallback
+52868,1, call getPasswordQuality LRB RRB to know if an ITadmin set a composition constraint .,getPasswordQuality
+53112,1, call ActivityOptions.setLockTaskEnabled LRB RRB to launch awhitelisted app,ActivityOptions
+53146,1, use DevicePolicyManager.setEndUserSessionMessage LRB RRB to set the message that 's displayed to the user when the user 's session ends .,DevicePolicyManager
+53151,1, use DevicePolicyManager.stopUser LRB RRB to stop a specified secondary user .,DevicePolicyManager
+53611,1, use the Device Administration API to write an app that enforces remote/local device security policy enforcement .,Device
+53922,1, call the newBuilder LRB RRB method to create an instance of BillingClient class also known as the Play Billing Library client .,newBuilder
+54192,2, use the Google Play Console to assign promo codes for your one time products .,Play
+54567,2, use the Cloud Pub/Sub Client Libraries libraries to consume the messages .,Pub
+54844,2, click Show/Hide to display several testing scenarios demonstrating the interval of testing renewal rates .,Hide
+55435,2, use your Play Console to set up licensing .,Play
+55529,2, select Finish to import the library module .,Finish
+6996,2, use the Google Play Developer Console to deploy it .,Console
+55953,1, use the Play Install Referrer Client Library to simplify your coding .,Client
+55966,1, use the Play Install Referrer Client Library to simplify your coding .,Referrer
+7916,1, call setData LRB RRB to set the payload .,setData
+7964,1, call createFromBytes LRB RRB to create the asset .,createFromBytes
+8017,1, implement the MessageClient.OnMessageReceivedListener interface to provide a listener for message events .,OnMessageReceivedListener
+8746,1, use the Wearable Data Layer API to communicate the configuration change to the watch face activity .,Wearable
+8746,2, use the Wearable Data Layer API to communicate the configuration change to the watch face activity .,Data
+9373,1, use AsyncTask to fetch them,AsyncTask
+9550,1, add an OnItemViewClickedListener object to the BrowseFragment that fires an intent to start the item details activity .,OnItemViewClickedListener
+9568,1, use setAdapter LRB RRB to add a related videos row .,setAdapter
+9641,1, add your GuidedStepFragment subclass to your desired activity by calling GuidedStepFragment.add LRB RRB,GuidedStepFragment
+9922,1, sends the intent TvContractCompat.ACTION _ PREVIEW_PROGRAM_ADDED_TO_WATCH_NEXT to notify the app that the program has been added .,TvContractCompat
+10066,1, calls onTune LRB Uri videoUri RRB to make Android TV start the preview video .,videoUri
+10265,2, use Google Play Services Saved Games to store your game save .,Saved
+10464,1, use a Sync Adapter to update the rest of the channel data,Adapter
+10532,1, call TvInputService.Session.notifyVideoAvailable LRB RRB to allow the video to display,Session
+10636,1, call notifyRecordingStopped LRB RRB to enable the system to use the partial session .,notifyRecordingStopped
+11550,1, connect an Ethernet cable to your local network .,Ethernet
+11551,1, connect the Ethernet cable to your development computer and assignthe Raspberry Pi an IP address using DHCP .,Ethernet
+11757,1, use a Handler to schedule an event to toggle the GPIO again after a shortdelay .,Handler
+11998,1, use openGpio LRB RRB to connect to that port .,openGpio
+12128,1, use PeripheralManager to connect to that device .,PeripheralManager
+12178,1, use PeripheralManager to connect to that device .,PeripheralManager
+12793,2, click the Get Started link to find instructions,Started
+13891,1, be used with MotionEvent.getAxisValue LRB RRB to read the physical tilt and orientation ofthe stylus,getAxisValue
+15260,1, calls onArticleSelected LRB RRB to share the event,onArticleSelected
+15512,1, starts the DetailsActivity activity to display the content of the item .,DetailsActivity
+15973,2, use the Digital Asset Links API to confirm that the Digital Asset Links JSON file is properly hosted and defined :,Asset
+16967,1, implements the onUpdate LRB RRB callback method to set the RemoteViewsService as the remote adapter for the app widget collection :,onUpdate
+17906,1, add the following Navigation Architecture Component to your app or module 's build.gradle file .,Component
+18053,2, click the Text tab to toggle to the XML view .,Text
+18079,2, select Move to Nested Graph > New Graph .,Move
+20451,1, click the layout andclick Convert layout to ConstraintLayout .,Convert
+20740,2, click Hierarchy View to view the layout hierarchy of the selected component .,View
+21125,1, allow the EditText value to be set initially,EditText
+21714,1, set the autoSizeTextType attribute to none or uniform .,autoSizeTextType
+21731,1, set the autoSizeText attribute to either none or uniform .,autoSizeText
+21847,1, override the onTypefaceRequestFailed LRB RRB method to receive information about errors,onTypefaceRequestFailed
+22009,1, use BundledEmojiCompatConfig to create an instance of EmojiCompat,BundledEmojiCompatConfig
+22104,1, use the Spannable.SPAN _ EXCLUSIVE_INCLUSIVE flag to include inserted text,Spannable
+22411,2, use the forDate LRB RRB method to generate an AutofillValue object .,forDate
+22777,1, attach the RemoteInput object to an action using addRemoteInput LRB RRB .,RemoteInput
+22830,1, call MessagingStyle.setConversationTitle LRB RRB to set a title for group chats,setConversationTitle
+22836,1, use MessagingStyle.addMessage LRB RRB to update the MessagingStyle notification and do not retract or cancel the notification .,MessagingStyle
+22876,1, attach a MediaSession.Token to the notification using setMediaSession LRB RRB .,MediaSession
+23038,1, call setCustomContentView LRB RRB to set the layout for the collapsed notification .,setCustomContentView
+23337,1, implement View.OnSystemUiVisibilityChangeListener to receive callbacks,View
+24484,1, call addPreferencesFromResource LRB RRB to add the preferences you 've declared,addPreferencesFromResource
+25317,1, add the finished ClipData object to the ClipboardManager object .,ClipData
+25354,1, call ContentResolver.query LRB RRB to get the data .,ContentResolver
+26696,1, use the View.setTransitionName LRB RRB method to specify a common element name,View
+28243,1, use the convenience method MediaControllerCompat.setMediaController LRB RRB to save a link to the controller .,setMediaController
+30619,1, use the getExternalStoragePublicDirectory LRB RRB method to get a File representing the appropriate directory,getExternalStoragePublicDirectory
+30908,1, add the @TypeConverters annotation to the AppDatabase class,TypeConverters
+33191,1, uses withValueBackReference LRB RRB to get the RAW_CONTACT_ID .,withValueBackReference
+33610,1, uses withValueBackReference LRB RRB to get the RAW_CONTACT_ID .,withValueBackReference
+33625,1, call withExpectedCount LRB RRB to ensure that only one row is tested by this assertion .,withExpectedCount
+34065,1, using an Intent to insert a single contact is the preferred way of modifying the Contacts Provider,Intent
+34153,1, call assignContactUri LRB RRB to set the contact .,assignContactUri
+34167,1, add a QuickContactBadge view element to your item layout For example,QuickContactBadge
+34965,1, use the AdvertisingIdClient.Info.isLimitAdTrackingEnabled LRB RRB method to ensure you are not circumventing your users ' wishes .,AdvertisingIdClient
+36248,1, override dispatchTouchEvent LRB MotionEvent event RRB to dispatch to the appropriate View,MotionEvent
+37153,1, use the Camera.getCameraInfo LRB RRB to determine if a camera is,getCameraInfo
+37519,1, use the remapCoordinateSystem LRB RRB method to map sensor coordinates to screen coordinates .,remapCoordinateSystem
+37865,2, download the GNSS Logger APK to install the sample app,Logger
+38771,1, use Connectivity Manager to check for a network connection before sending the network request,Connectivity
+38771,1, use Connectivity Manager to check for a network connection before sending the network request,Manager
+39671,1, call isEnabled LRB RRB to check whether Bluetooth iscurrently enabled .,isEnabled
+39985,1, call the Object.class.getName LRB RRB method to obtain the class of the technology that you want to support .,getName
+40902,1, open a UsbDeviceConnection to communicate with the USB device .,UsbDeviceConnection
+41164,1, implement a NsdManager.ResolveListener to pass into this method,ResolveListener
+43407,2, read Configure Gradle to sign your APK .,Configure
+6178,1, use the NotificationCompat.Builder class to create notifications for wearables .,Builder
+44070,1, select the Unused resources option to start the resource usageinspection process .,Unused
+44751,1, consider using Firebase Dynamic Links to wrap your URLs and guarantee that links always open,Dynamic
+44936,1, consider using Firebase Dynamic Links to wrap your URLs and guarantee that links always open,Firebase

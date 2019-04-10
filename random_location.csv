@@ -1,0 +1,366 @@
+id,truth,location,sentence
+13157,1,at 1600 Amphitheatre Parkway,"  Under the Terms , `` Google '' means Google LLC , with offices at 1600 Amphitheatre Parkway , Mountain View , California 94043 , United States , unless set forth otherwise in additional terms applicable for a given API ."
+28022,0,at all,"  Using MediaBrowserService makes it easy for companion devices -LRB- like Android Auto and Wear -RRB- to discover your app , connect to it , browse for content , and control playback , without accessing your UI activity at all ."
+40598,0,at any time by calling updateSubscribe -LRB- -RRB- on the discovery session,  You can update the subscribe session at any time by calling updateSubscribe -LRB- -RRB- on the discovery session .
+246,1,at app > manifests > AndroidManifest.xml,"  So open the file at app > manifests > AndroidManifest.xml , locate the <activity> tag for DisplayMessageActivity and replace it with the following :"
+48009,1,at Power management restrictions,  See full details of the device-specific power optimizations at Power management restrictions .
+9210,4,at runtime,  Use the hasSystemFeature -LRB- String -RRB- method to check for specific features at runtime .
+30387,4,at somerandom period of time,"  At the same time , schedule the alarm that contains the network requests to fire at somerandom period of time ."
+42172,1,at the Android framework level or set them directly in the RenderScript code,  You can use the accessor methods at the Android framework level or set them directly in the RenderScript code .
+45838,1,at the beginning of your test class definition,"  To create an integration test for your service , add the @RunWith -LRB- AndroidJUnit4.class -RRB- annotation at the beginning of your test class definition ."
+19929,3,at the location specified by that extra and call setResult -LRB- -RRB- with an Intent that includes a compressed thumbnail in an extra named `` data '',"  When handling this intent , your activity should check for the EXTRA_OUTPUT extra in the incoming Intent , then save the captured image or video at the location specified by that extra and call setResult -LRB- -RRB- with an Intent that includes a compressed thumbnail in an extra named `` data '' ."
+46323,1,at the testClickOnItem50 -LRB- -RRB- method within the AdapterViewTest class and this custom LongListMatchers matcher,"  For the full code of this test , take a look at the testClickOnItem50 -LRB- -RRB- method within the AdapterViewTest class and this custom LongListMatchers matcher ."
+48809,1,at the top of a class,  Consider the following declaration at the top of a class :
+46,1,at the top of that window,"  First , be sure the Project window is open -LRB- select View > Tool Windows > Project -RRB- and the Android view is selected from the drop-down list at the top of that window ."
+19947,1,from a contact,"  To have the user select a specific piece of information from a contact , such as a phone number , email address , or other data type , use the ACTION_PICK action and specify the MIME type to one of the content types listed below , such as CommonDataKinds.Phone.CONTENT _ TYPE to get the contact 's phone number ."
+30917,1,from a database to the respective object model is a common practice and works very well on the server side,  Mapping relationships from a database to the respective object model is a common practice and works very well on the server side .
+9339,0,from a distance,  Follow these tips to make your user interface elements easier to see from a distance :
+43758,1,from a feature module to the APK module,"  Because you must always declare your application ID in the Gradle module that declares com.android.application , move the applicationID line from a feature module to the APK module ."
+24813,1,from a file,"  Install the SDK Samples package for API Level 4 to see the original version of the Searchable Dictionary , which creates a custom adapter to read data from a file ."
+22895,1,from a notification does n't need a back stack,"  Because a `` special activity '' started from a notification does n't need a back stack , you can create the PendingIntent by calling getActivity -LRB- -RRB- , but you should also be sure you 've defined the appropriate task options in the manifest ."
+36344,1,from above,  You can combine the adjustment specification with the initial input method visibility specification from above :
+48951,1,from above,"  In order to determine whether two threads simultaneously access the same memory location , we can ignore the memory-reordering discussion from above , and assume sequential consistency ."
+5634,0,from APK to APK,"  Having a starting activity defined in the library project gives you a chance to put all your application initialization in one place , so that each individual APK does n't have to re-implement `` universal '' tasks like initializing Analytics , running licensing checks , and any other initialization procedures that do n't change much from APK to APK ."
+43247,0,from being available to users on demand,"  Keep in mind , this type of modularization requires more effort and possibly refactoring your app 's existing code , so consider carefully which of your app 's features would benefit the most from being available to users on demand ."
+46867,1,from com.android.support.test : testing-support-lib :0.1 to com.android.support.test : runner :0.2 and com.android.support.test : rules :0.2,  Test runner artifact split into two and the name changed from com.android.support.test : testing-support-lib :0.1 to com.android.support.test : runner :0.2 and com.android.support.test : rules :0.2 .
+19986,1,from DocumentsContract.Document,  You can open the file with openFileDescriptor -LRB- -RRB- and query its details using columns from DocumentsContract.Document .
+36371,1,from each focusable element in your UI,"  From each focusable element in your UI , press Up , Down , Left , and Right ."
+22408,1,from EditText,  Create a class that inherits from EditText .
+12249,5,from false to true,  AGPIO_EDGE_RISING : Interrupt on a value transition from false to true
+15205,1,from FragmentTransaction,"  To make fragment transactions in your activity -LRB- such as add , remove , or replace afragment -RRB- , you must use APIs from FragmentTransaction ."
+36634,1,from its UI,  You can also provide access to the IME 's settings directly from its UI .
+36759,1,from its UI,  You can also provide access to the IME 's settings directly from its UI .
+46859,5,from JUnit v4 .10 to JUnit v4 .12,  Upgrade from JUnit v4 .10 to JUnit v4 .12
+51907,1,from one profile to the other,  Configure which intents are allowed to cross from one profile to the other
+54677,1,from redistributing your unlocked content,"  To prevent malicious users from redistributing your unlocked content , do not bundle it in your APK file ."
+46586,1,from running,"  For example , to suppress tests on all API levels lowerthan 23 from running , use the annotation @SDKSupress -LRB- minSdkVersion = 23 -RRB- ."
+5626,1,from scratch,"  If , on the other hand , you 're creating the application from scratch , try as much as possible to write code in the library project first , then only move it down to an individual APK if necessary ."
+16080,1,from some other source,"  Alternatively , you can implement your own subclassof Loader or AsyncTaskLoader toload data from some other source ."
+2558,1,from the applicationId from the build file,"  However , if you decide to make your code 's namespace -LRB- and thus , the package name in the manifest -RRB- something different from the applicationId from the build file , be sure you fully understand the implications of setting the application ID ."
+36370,3,from the beginning of your app and instead use the direction controls -LRB- arrow keys on the keyboard -RRB- to navigate your app,  Start from the beginning of your app and instead use the direction controls -LRB- arrow keys on the keyboard -RRB- to navigate your app .
+25316,1,from the ClipData.Item or from the content provider referred to by ClipData.Item,"  To paste data , an application gets the ClipData , gets its MIME type from the ClipDescription , and gets the data either from the ClipData.Item or from the content provider referred to by ClipData.Item ."
+25316,1,from the ClipDescription,"  To paste data , an application gets the ClipData , gets its MIME type from the ClipDescription , and gets the data either from the ClipData.Item or from the content provider referred to by ClipData.Item ."
+4495,1,from the command line,  Use the adb tool to manage permissions from the command line :
+16908,3,from the configuration and update the App Widget,  See the code snippets in the following section for an example of how to return a result from the configuration and update the App Widget .
+33339,1,from the device 's contacts application,"  To register one of your activities to handle the user clicking on a stream item in the device 's contacts application , add the attribute viewStreamItemActivity = '' activityclass '' to the element , where activityclass is the fully-qualified classname of the activity that should receive the intent from the device 's contacts application ."
+38141,1,from the feed,"  Once the whole feed has been recursively processed , readFeed -LRB- -RRB- returns a List containing the entries -LRB- including nested data members -RRB- it extracted from the feed ."
+18022,1,from the Graph Editor,"  From the Graph Editor , click on the destination where the argument isreceived ."
+45059,1,from the list,  You can swipe a Slice to remove it from the list
+45527,1,from the main menu,  Click Run > Edit Configurations from the main menu .
+43381,1,from the menu bar,"  If you already have your app project open in the IDE and you want to simply test building an app bundle , select Build > Build Bundle -LRB- s -RRB- / APK -LRB- s -RRB- > Build Bundle -LRB- s -RRB- from the menu bar ."
+33896,1,from the method,  Return a new CursorLoader from the method .
+47361,1,from the server,"  For example , consider an app that receives a new version of a list of news content from the server ."
+6184,1,from the support library,"  Now that your project has access to the necessary packages , import the necessary classes from the support library :"
+20740,1,from the Windows tab,"  Choose your component from the Windows tab , and click Hierarchy View to view the layout hierarchy of the selected component ."
+6487,1,from this computer and tap OK,"  On the watch , tap Always allow from this computer and tap OK ."
+52691,0,from uninstalling the VPN,"  To prevent a user from uninstalling the VPN , call DevicePolicyManager.setUninstallBlocked ."
+53692,0,from when a device admin sets the expiration timeout,"  Beginning with Android 3.0 , you can use the setPasswordExpirationTimeout -LRB- -RRB- method to set when a password will expire , expressed as a delta in milliseconds from when a device admin sets the expiration timeout ."
+24873,1,from which the user can perform a search,"  To pass this kind of data to your searchable activity , override the onSearchRequested -LRB- -RRB- method for the activity from which the user can perform a search , create a Bundle with the additional data , and call startSearch -LRB- -RRB- to activate the search dialog ."
+15408,1,from your activity,"  To get it , call getSupportFragmentManager -LRB- -RRB- from your activity ."
+15212,1,from your activity,"  To get it , call getSupportFragmentManager -LRB- -RRB- from your activity ."
+21013,1,from your code,"  You can specify the layout using the declarative XML files just like with an activity screen , or you can create views programmatically and nest them into the layout from your code ."
+13589,1,from your current activity in getResources -LRB- -RRB-,"  When looking for the current configuration , always use the configuration from your current activity in getResources -LRB- -RRB- ."
+46562,1,from your device 's CPU and memory after eachtest,"  To remove all shared state from your device 's CPU and memory after eachtest , use the clearPackageData flag ."
+49874,1,from your source,"  If you created a new project for this service , and do n't plan on having an application , you can remove the starter Activity class -LRB- usually called MainActivity.java -RRB- from your source ."
+7713,0,in '' for previous,"  Use `` Flick wrist out '' for next , `` Flick wrist in '' for previous"
+34025,1,in a background thread,  Always do retrievals from the Contacts Provider -LRB- and all other content providers -RRB- in a background thread .
+25428,3,in a call to a ContentResolver file descriptor method that opens the stream,"  To paste a data stream , an application gets the clip from the clipboard , gets the URI , and uses it in a call to a ContentResolver file descriptor method that opens the stream ."
+39036,1,in a call to registerContentObserver -LRB- -RRB-,"  To register the observer , pass it as an argument in a call to registerContentObserver -LRB- -RRB- ."
+16997,1,in a collection,"  Instead , to add click behavior to individual items in a collection , you use setOnClickFillInIntent -LRB- -RRB- ."
+42802,1,in a link as shown above,"  Instead of using a simple string in a link as shown above , you can use a custom scheme such as the following :"
+35903,0,in a meaningful way,"  In particular , do not rely on these methods to validate input when the user presses the return key ; instead , use actions like IME_ACTION_DONE to signal the input method how your application expects to react , so it may change its UI in a meaningful way ."
+17664,1,in a real app,"  Even though this sample looks fine , in a real app , you end up having too many calls that manage the UI and other components in response to the current state of the lifecycle ."
+14126,1,in a scrollable area of the app -LRB- e.g. a list -RRB-,"  In a scrollable area of the app -LRB- e.g. a list -RRB- , use the stylus swipe/scroll action ."
+55677,1,in a SharedPreferences file,"  It caches all of the response data locally in a SharedPreferences file , obfuscating it with the application 's Obfuscator implementation ."
+9401,0,in a specific way,"  After testing , if you decide you want users to move through your layouts in a specific way , you can set up explicit directional navigation for your controls ."
+7464,3,in a style resource -RRB- and set the android : windowSwipeToDismiss attribute to false,"  In an exceptional case , you can extend the default theme -LRB- in a style resource -RRB- and set the android : windowSwipeToDismiss attribute to false :"
+46573,1,in a terminal window,"  To use Android Test Orchestrator on the command line , run the following commands in a terminal window :"
+18867,3,in action and argument names will be replaced by camel casing in the respective NavDirections method names,  Breaking Change : Non-alphanumeric characters in action and argument names will be replaced by camel casing in the respective NavDirections method names
+16538,1,in Activity.onCreate -LRB- Bundle -RRB-,"  If this behavior is not desirable , you can use a trampoline activity , or an invisible activity that starts another activity in Activity.onCreate -LRB- Bundle -RRB- , then calls Activity.finish -LRB- -RRB- :"
+45302,2,in Adding Gradle dependencies from a Maven repository,"  As discussed in Adding Gradle dependencies from a Maven repository , you can add these dependencies to your development environment by adding each dependency within your module-level build.gradle file ."
+47042,2,in alpha.For information on triggering tasks at specific intervals,"  If your app needs to execute background tasks at regular intervals , consider using JobScheduler , FirebaseJobDispatcher or WorkManager , currently in alpha.For information on triggering tasks at specific intervals , see Intelligent Job-Scheduling ."
+8344,0,in ambient mode,"  To update the watch face in ambient mode , see Update the watch face in ambient mode ."
+6780,0,in ambient mode,  Schedule the next update when the activity switches to ambient mode or is currently in ambient mode .
+45611,1,in an Activity -LRB- for example,"  Find the UI component you want to test in an Activity -LRB- for example , a sign-in button in the app -RRB- by calling the onView -LRB- -RRB- method , or the onData -LRB- -RRB- method for AdapterView controls ."
+9760,0,in and briefly display this Drawable,"  The system will fade in and briefly display this Drawable , and then fade out the Drawable before displaying the first page of your OnboardingFragment ."
+30248,1,in Android 4.0 and higher,"  In Android 4.0 and higher , you can specify a package with setPackage -LRB- String -RRB- when sending abroadcast ."
+36923,3,in Android 7.1 or higher or install the CommitContent Sample App,  You can either use the Google Messenger app in Android 7.1 or higher or install the CommitContent Sample App .
+22945,1,in Android 8.0,  Check out the video below for an overview of channels and other new notification features in Android 8.0 .
+52938,1,in Android 9 -LRB- API level 28 -RRB- or higher,  You can set freeze periods in Android 9 -LRB- API level 28 -RRB- or higher .
+6449,1,in Android Studio,"  In Android Studio , click the Run button ."
+25840,1,in android.animation,  You can find most of the property animation system 's APIs in android.animation .
+38926,0,in another form,"  However , if you 're already storing local data in another form , you can still use a sync adapter to handle data transfer ."
+40649,1,in another thread,"  This callblocks until a client connects , so call it in another thread ."
+15907,1,in any one of the web URL intent filters in your app manifest that include the android.intent.action.VIEW intent action and android.intent.category.BROWSABLE intent category,"  To enable link handling verification for your app , set android : autoVerify = `` true '' in any one of the web URL intent filters in your app manifest that include the android.intent.action.VIEW intent action and android.intent.category.BROWSABLE intent category , as shown in the following manifest code snippet :"
+11208,3,in Application Mode and check Unknown sources,  Select Developer in Application Mode and check Unknown sources .
+55606,3,in as the primary account -- however,"  The preferred approach is to sign in as the primary account -- however , if there are other accounts already in use on the device or emulator , you can create an additional account and sign in to it using the publisher or test account credentials ."
+7132,1,in both commands,  Be sure you use the same port in both commands .
+31260,1,in code,"  Otherwise , you can set android : minSdkVersion to another value as necessary , and test for the platform version in code , as described in the following section ."
+22850,1,in Create a Notification,"  To start , build a notification with all the basic content as described in Create a Notification ."
+48089,1,in Doze,"  If you need to set alarms that fire while in Doze , use setAndAllowWhileIdle -LRB- -RRB- or setExactAndAllowWhileIdle -LRB- -RRB- ."
+7029,0,in draft mode,"  Note : If your APK is in draft mode , select App releases directly from the left menu ."
+19964,1,in extras specified by constants in ContactsContract.Intents.Insert,"  To insert a new contact , use the ACTION_INSERT action , specify Contacts.CONTENT _ TYPE as the MIME type , and include any known contact information in extras specified by constants in ContactsContract.Intents.Insert ."
+44028,1,in Figure 1,"  The Google Play Instant Unity plugin includes the Player Settings dialog , shown in Figure 1 , which displays suggestions that help you optimize support for Google Play Instant , develop against more compatible graphics API , and reduce your APK 's size ."
+10355,1,in getChannels -LRB- -RRB-,"  In your subclass , create and return your full list of channels in getChannels -LRB- -RRB- ."
+54699,1,in Google Play,  Publish your app to a closed or open testing track in Google Play .
+40085,1,in hexadecimal format,"  The AIDmust be specified in hexadecimal format , and contain an even number of characters ."
+49235,1,in its entirety,"  For small built-in types like int , and hardware supported by Android , ordinary load and store instructions ensure that a store will be made visible either in its entirety , or not at all , to another processor loading the same location ."
+29150,1,in its own class,  Instantiate ThreadPoolExecutor in its own class .
+19348,1,in LiveData,"  Fixed a bug in LiveData , that second Observer was ignored when first one was removed from its onChanged method ."
+53508,3,in Location Settings allows users to deny location updates or last-location queries for apps running in the work profile,  A separate location access switch in Location Settings allows users to deny location updates or last-location queries for apps running in the work profile .
+49387,1,in mind,  Test with accessibility in mind .
+48638,0,in mind that Android is a mobile platform,  Always keep in mind that Android is a mobile platform .
+52135,0,in mind that new policies are being added to Android with each release,  Keep in mind that new policies are being added to Android with each release .
+49685,0,in mind that not all devices include fingerprint sensors,  Keep in mind that not all devices include fingerprint sensors .
+44977,1,in more places across multiple Google and Android surfaces,  Get your app discovered in more places across multiple Google and Android surfaces .
+9469,1,in onBindViewHolder -LRB- -RRB-,  Set your view to be focusable in onBindViewHolder -LRB- -RRB- :
+30597,1,in one of these directories,"  To create a new file in one of these directories , you can use the File -LRB- -RRB- constructor , passing the File object provided by one of the above methods that specifies your internal storage directory ."
+47534,0,in one of three states,"  App launch can take place in one of three states , each affecting how long it takes for your app to become visible to the user : cold start , warm start , or hot start ."
+41716,1,in one of two ways,"  When developing an Android application that uses RenderScript , you can access its API from Java in one of two ways :"
+29323,1,in onStart -LRB- -RRB-,"  For example , if you want to play some music , but only while your activity is running , you might create a thread in onCreate -LRB- -RRB- , start running it in onStart -LRB- -RRB- , and stop it in onStop -LRB- -RRB- ."
+38657,0,in Path,"  In Android Studio , choose Edit > Find > Find in Path ."
+36251,3,in pixels a user 's touch can wander before the gesture is interpreted as scrolling,  `` Touch slop '' refers to the distance in pixels a user 's touch can wander before the gesture is interpreted as scrolling .
+46343,0,in place of actual intent responses,"  With Espresso-Intents , you can match and validate your outgoing intents or even provide stub responses in place of actual intent responses ."
+32721,3,in presentation views if the user has n't authenticated,"  Services should n't encrypt labels , which allows them to use the labels in presentation views if the user has n't authenticated , and substitute the labels with the actual data after the user authenticates ."
+11304,1,in Prototype devices,"  Once you 've gotten a developer kit and have ran your first sample , learn about how to turn your ideas into reality in Prototype devices , which goes over common hardware concepts and how to take an early proof-of-concept to a working prototype ."
+28376,1,in rare cases,"  In rare cases , you can set the volume of an audio stream programmatically ."
+16850,1,in res/values / to provide the pre-Android 4.0 custom margins,"  Create two dimensions resources , one in res/values / to provide the pre-Android 4.0 custom margins , and one in res/values-v 14 / to provide no extra padding for Android 4.0 widgets :"
+21585,1,in res/values-v 21/styles,  Then add the version-specific styles in res/values-v 21/styles .
+8780,0,in response to a peek card,"  If you resize the elements of your watch face in response to a peek card , use values that are some fraction of the remaining space above the card to redraw your watch face ."
+12381,1,in sensor fusion,  Connecting your sensor to the framework with a user driver allows the data it produces to be included in sensor fusion .
+45450,1,in Set up your testing environment,"  Include the Mockito library dependency in your build.gradle file , as described in Set up your testing environment ."
+28260,1,in several APIs to control the player,"  Your media session callbacks call methods in several APIs to control the player , manage the audio focus , and communicate with the media session and media browser service ."
+41420,1,in Single-Source RenderScript,"  In Single-Source RenderScript , you write kernels as described in Writing a RenderScript Kernel ."
+18255,1,in that case,"  In that case , you usually need to migrate from a ListView to a RecyclerView as your app 's list UI container , then replace the Cursor component with either Room or PositionalDataSource , depending on whether instances of Cursor access a SQLite database ."
+39833,1,in the <meta-data> element inside the <activity> element like in the following example,"  In your AndroidManifest.xml file , specify the resource file that you just created in the <meta-data> element inside the <activity> element like in the following example :"
+12111,1,in the 16MHz to 25MHz range,  Clock speeds are typically in the 16MHz to 25MHz range .
+8268,1,in the Add an Activity to Wear window,"  In the Add an Activity to Wear window , select Watch Face and click Next ."
+16208,3,in the addFlags -LRB- -RRB- method of the Intent that launches the activity,"  If you want to retain a task in the Recents screen , even if its activity has finished , pass the FLAG_ACTIVITY_RETAIN_IN_RECENTS flag in the addFlags -LRB- -RRB- method of the Intent that launches the activity ."
+48439,1,in the Android NDK,"  Use the arm-eabi-strip tool , provided in the Android NDK , to remove unnecessary debug symbols from native libraries ."
+11964,3,in the Android Things Console documentation for more information on the available update channels and creating your own custom channels,  See how to select an update channel in the Android Things Console documentation for more information on the available update channels and creating your own custom channels .
+39964,1,in the android.nfc.tech package,"  Obtain an instance of a TagTechnology , by calling one of the get factory methods of the classes in the android.nfc.tech package ."
+18024,1,in the Arguments section of the Attributes panel.Empty name and default value fields appear,  Click Add -LRB- + -RRB- in the Arguments section of the Attributes panel.Empty name and default value fields appear .
+196,1,in the Attributes window,"  In the Attributes window , locate the onClick property and select sendMessage -LSB- MainActivity -RSB- from the drop-down list ."
+37729,1,in the background without draining too much battery,  Only use this sensor if you want to collect some rotation information in the background without draining too much battery .
+9471,1,in the BrowseFragment implementation that displays the catalog browser,"  Finally , in the BrowseFragment implementation that displays the catalog browser , use the setHeaderPresenterSelector -LRB- -RRB- method to set the presenter for the row header , as shown in the following example ."
+10777,1,in the car,  Provide audio playback for Auto - Create apps that let users browse and play music in the car .
+28602,3,in the Cast documentation instead of using the MediaRouter framework directly,  Follow the directions in the Cast documentation instead of using the MediaRouter framework directly .
+28591,3,in the Cast documentation instead of using the MediaRouter framework directly,  Follow the directions in the Cast documentation instead of using the MediaRouter framework directly .
+43679,1,in the Company domain box,"  In the Company domain box , enter `` example.com '' ."
+49229,1,in the Concurrency section of EffectiveJava,"  Internalize the recommendations in the Concurrency section of EffectiveJava , 2nd Edition ."
+31753,1,in the ContentProviderOperation class,"  Batch access : You can create a batch of access calls with methods in the ContentProviderOperation class , and then apply them with ContentResolver.applyBatch -LRB- -RRB- ."
+44662,1,in the Convert an app to a base feature module and Convert a feature module to an instant app guides,"  The recommended project structure , as discussed in the Convert an app to a base feature module and Convert a feature module to an instant app guides , prioritizes separating functionality into library modules , where the installable app and instant app depend on those library modules ."
+25482,1,in the current layout,  You can call startDrag -LRB- -RRB- for any attached View in the current layout .
+52342,1,in the DPC,"  With this library initialized in your DPC , you can use the Google Play EMM API in your EMM console and server to apply managed configurations to approved apps , instead of coding these tasks directly in the DPC ."
+8346,1,in the Engine.onVisibilityChanged -LRB- -RRB- method,"  In the Engine.onVisibilityChanged -LRB- -RRB- method , start the custom timer if these two conditions apply :"
+6735,1,in the example below,"  Implement the AmbientCallbackProvider interface , as in the example below ."
+52248,1,in the example below -RRB- from the DPC Support Library,"  To simplify interaction with AccountManager , use the helper function -LRB- shown in the example below -RRB- from the DPC Support Library ."
+37143,1,in the example code below,"  To perform this check , use the PackageManager.hasSystemFeature -LRB- -RRB- method , as shown in the example code below :"
+35531,1,in the following code sample,"  To stop location updates , call removeLocationUpdates -LRB- -RRB- , passing it a LocationCallback , as shown in the following code sample :"
+35522,1,in the following code sample,  Define a startLocationUpdates -LRB- -RRB- method as shown in the following code sample :
+30768,1,in the following code snippet,"  If you want a column to have a different name , add the @ColumnInfo annotation to a field , as shown in the following code snippet :"
+30851,1,in the following code snippet,"  If your app 's logic requires direct access to the return rows , you can return a Cursor object from your queries , as shown in the following code snippet :"
+50123,1,in the following code snippet,"  If your app must use JavaScript interface support on devices running Android 6.0 -LRB- API level 23 -RRB- and higher , use HTML message channels instead of evaluateJavascript -LRB- -RRB- to communicate between a website and your app , as shown in the following code snippet :"
+31758,1,in the following sections,  Batch access and modification via intents are described in the following sections .
+49433,1,in the following two ways,  You can provide labels for elements in the following two ways :
+39854,1,in the following ways,  You can create a TNF_MIME_MEDIA NDEF record in the following ways :
+15600,3,in the Fragment class and implement it within the Activity,"  To allow a Fragment to communicate up to its Activity , you can define an interface in the Fragment class and implement it within the Activity ."
+15525,1,in the Fragments/Activities themselves,"  The lifecycle-aware component can then be reused in other Fragments and Activities to avoid duplication of code , and reduce the amount of setup you need to do in the Fragments/Activities themselves ."
+1796,1,in the framework,"  As a result , you can reduce your APK footprint by not compiling the ICU4J libraries into your APK ; instead , you can simply call out to them in the framework ."
+54297,1,in the future or autoRenewing is set to true -RRB-,"  In this link 's click handler , add logic to determine whether the user has any non-expired subscriptions for your app -LRB- where expiryTimeMillis is in the future or autoRenewing is set to true -RRB- :"
+43323,1,in the General tab,"  Under Dynamic features to deploy in the General tab , check thebox next to each dynamic feature module you want to include whendeploying your app ."
+50917,1,in the Google APIs Console,  Go to the Library page in the Google APIs Console .
+44003,1,in the Google APIs for Android,"  To do so , use the showInstallPrompt -LRB- -RRB- method in the Google APIs for Android ."
+53966,1,in the Google Play Console,  You can use the order ID to manage refunds in the Google Play Console .
+53802,1,in the Google Play Console help center,"  For more details about each of these options , refer to Add subscriptions and recurring charges in the Google Play Console help center ."
+22922,1,in the group,"  Then , for each notification you want in the group , just call setGroup -LRB- -RRB- , passing the group name ."
+24150,3,in the host component that will receive the action events from the dialog,  Then implement that interface in the host component that will receive the action events from the dialog .
+36839,1,in the input method 's XML resource files,  Declare supportsSwitchingToNextInputMethod = `` true '' in the input method 's XML resource files .
+14969,3,in the Intent that declares how -LRB- orwhether -RRB- the new activity should associate with the current task,"  When you call startActivity -LRB- -RRB- , you can include a flag in the Intent that declares how -LRB- orwhether -RRB- the new activity should associate with the current task ."
+14993,1,in the intent that you deliver to startActivity -LRB- -RRB-,"  When starting an activity , you can modify the default association of an activity to its task by including flags in the intent that you deliver to startActivity -LRB- -RRB- ."
+44914,1,in the internal storage,"  However , once the instant app is running on the user 's device , you can download additional data and store it in the internal storage ."
+26448,1,in the layout and the items are animated automatically,"  Now , all you need to do is add , remove , or update items in the layout and the items are animated automatically :"
+21811,1,in the Layout Editor,"  In the Layout Editor , select a TextView , and then under Properties , select fontFamily > More Fonts ."
+5634,3,in the library project gives you a chance to put all your application initialization in one place,"  Having a starting activity defined in the library project gives you a chance to put all your application initialization in one place , so that each individual APK does n't have to re-implement `` universal '' tasks like initializing Analytics , running licensing checks , and any other initialization procedures that do n't change much from APK to APK ."
+14678,3,in the lifecycle it is more appropriate to take control of shared system resources in the context of multi-window,  Think carefully about where in the lifecycle it is more appropriate to take control of shared system resources in the context of multi-window .
+6328,1,in the manifest file of the watch app -LRB- e.g. the standalone watch app -RRB-,"  Specifically , to prevent bridging of notifications from a phone app , you can use a <meta-data> entry in the manifest file of the watch app -LRB- e.g. the standalone watch app -RRB- , as follows :"
+55789,1,in the methods,"  To start with , you can use simple result-handling behaviors in the methods , such as displaying the license result in a dialog ."
+42823,1,in the new WebView,"  In the new WebView , these return a value based on CSS pixels ."
+38511,1,in the next section,"  Note that further downloads should be bundled , as described in the next section , Batch Transfers and Connections , and that these approximations will vary based on the connection type and speed , as discussed in Modify your Download Patterns Based on the Connectivity Type ."
+22971,3,in the notification drawer and as a badge on the launcher icon,"  All notifications , regardless of importance , appear in non-interruptive system UI locations , such as in the notification drawer and as a badge on the launcher icon , though you can modify the appearance of the notification badge ."
+25206,1,in the onCreateOptionsMenu -LRB- -RRB- method of your activity,"  To display the SearchView in the app bar , inflate the XML menu resource -LRB- res/menu/options _ menu.xml -RRB- in the onCreateOptionsMenu -LRB- -RRB- method of your activity :"
+2396,1,in the one XML file,"  As such , you can combine integer array resources with other simple resources in the one XML file , under one <resources> element ."
+10965,3,in the onPlayFromSearch -LRB- -RRB- method when you have generated the audio content queue based on the user 's request,"  Note : To minimize driver distractions , immediately initiate audio content playback in the onPlayFromSearch -LRB- -RRB- method when you have generated the audio content queue based on the user 's request ."
+24259,1,in the onPrepareOptionsMenu -LRB- -RRB- method,"  If you want to modify the options menu based on events that occur during the activity lifecycle , you can do so in the onPrepareOptionsMenu -LRB- -RRB- method ."
+34896,1,in the output of the command under Pending key/value backup,  Run adb shell dumpsys backup and check that your app is listed in the output of the command under Pending key/value backup .
+32292,1,in the parent directory to the cursor,"  This snippet makes a new cursor with the requested columns , then adds information about every immediate child in the parent directory to the cursor ."
+46991,3,in the Play Console and Android Studio to help improve your app quality,  Learn about Android vitals and improved tools in the Play Console and Android Studio to help improve your app quality .
+43698,3,in the Project window and then select Run > Run ` instantapp ',  Click the instantapp module in the Project window and then select Run > Run ` instantapp ' .
+54152,1,in the Purchase class,"  To view the types of product detail information that are available , see the list of methods in the Purchase class ."
+47732,1,in the rare bucket,"  If an app is in the rare bucket , the system imposes strict restrictions on its ability to run jobs , trigger alarms , and receive high-priority FCM messages ."
+27026,,in the resulting image,"  That is , you can look for the lowest quality setting before a user perceives noticeable distortion in the resulting image , or you can iteratively set image-distortion levels to learn their associated quality levels ."
+41087,1,in the same room,"  Integrating this functionality into your application helps you provide a wide range of features , such as playing games with users in the same room , pulling images from a networked NSD-enabled webcam , or remotely logging into other machines on the same network ."
+76,1,in the Select Hardware screen,"  In the Select Hardware screen , select a phone device , such as Pixel , and then click Next ."
+14908,3,in the stack are never rearranged,"  Activities in the stack are never rearranged , only pushed and popped from the stack -- pushed onto the stack when started by the current activity and popped off when the user leaves it using the Back button ."
+17000,1,in the StackWidget sample,"  In the StackWidget sample , if the user touches the top view , the app widget displays the Toast message `` Touched view n , '' where n is the index -LRB- position -RRB- of the touched view ."
+25108,1,in the SUGGEST_COLUMN_QUERY column of your suggestions table,  Provide a unique query text string in the SUGGEST_COLUMN_QUERY column of your suggestions table .
+157,1,in the tab bar,"  So return to the layout file by clicking activity_main.xml in the tab bar , and add the strings as follows :"
+12792,1,in the table of supported hardware platforms,  Find your device in the table of supported hardware platforms .
+8266,1,in the Target Android Devices window,"  In the Target Android Devices window , select only the Wear option , and in the list of SDK versions , select the latest available version ."
+36700,1,in the UI,"  To ensure that your subtypes are labeled correctly in the UI , use % s to get a subtype label that is the same as the subtype 's locale label ."
+9577,3,in the UI and maintains their state,"  You also need to specify a `` glue host '' that binds the glue to the playback fragment , draws the transport controls in the UI and maintains their state , and passes transport control events back to the glue ."
+6463,1,in the upper-left drop-down,"  Alternatively , if an existing watch already is paired , in the upper-left drop-down , tap Add a New Watch ."
+6998,1,in the Wear 2.0 module 's build.gradle file,"  If you have different APKs for Wear 1.0 and Wear 2.0 , be sure to set the higher minimum SDK version of 25 in the Wear 2.0 module 's build.gradle file ."
+48723,0,in the world,"  It 's possible to write code that wins every performance test in the world , but still feels sluggish , hang or freeze for significant periods , or take too long to process input ."
+40831,1,in the XML resource file,"  In the XML resource file , declare <usb-accessory> elements for the accessories that you want to filter ."
+9705,1,in these subclasses,"  For details on what you can customize in these subclasses , see the documentation on GuidanceStylist and GuidedActionsStylist ."
+8103,0,in this fashion allows your app to more selectively receive events,"  Implementing listeners in this fashion allows your app to more selectively receive events , improving its design and efficiency ."
+33768,1,in this file,"  In this file , add the element <ContactsAccountType?xmlns:android=""http://schemas.android.com/apk/res/android""> ."
+35722,1,in this guide,"  If geofences are n't being triggered when the device enters a geofence -LRB- the GEOFENCE_TRANSITION_ENTER alert is n't triggered -RRB- , first ensure that your geofences are registered properly as described in this guide ."
+206,1,in this lesson,"  You can use intents for a wide variety of tasks , but in this lesson , your intent starts another activity ."
+47060,3,in this page to diagnose and fix the problem,"  If your app is waking up the device excessively , you can use the guidance in this page to diagnose and fix the problem ."
+55522,1,in this way,"  In this way , you can easily maintain a uniform implementation of licensing across all of your projects and maintain it centrally ."
+46483,1,in those tests,"  Implement an idling resource in your app 's tests , and expose the part of your app 's implementation that needs to be synchronized in those tests ."
+54377,1,in to your application,"  Subsequently , when the user starts up or logs in to your application , you should check if the user owns any outstanding consumable in-app products ; if so , make sure to consume and provision those items ."
+46598,1,in use in the Sunflower demo app,  See it in use in the Sunflower demo app .
+32876,3,in Using an intent to insert an event -- in thatscenario,"  Note that this rule does not apply ifyou 're inserting an event through the INSERT Intent , described in Using an intent to insert an event -- in thatscenario , you can use an RRULE in conjunction with DTSTART and DTEND , and the Calendar applicationconverts it to a duration automatically ."
+21769,1,in XML,"  To define a range of text sizes and a dimension in XML , use the android namespace and set the following attributes :"
+21779,1,in XML,"  To use preset sizes to set up the autosizing of TextView in XML , use the android namespace and set the following attributes :"
+35542,1,in your activity 's onPause -LRB- -RRB- method,"  Set the shared preference in your activity 's onPause -LRB- -RRB- method , and retrieve the preference in onResume -LRB- -RRB- ."
+6745,3,in your activity by using the WearableActivity class,  You can enable ambient mode in your activity by using the WearableActivity class :
+43768,1,in your APK 's AndroidManifest.xml as follows,"  Each of your app 's manifest files must reference a unique package , so update the name in your APK 's AndroidManifest.xml as follows :"
+33164,1,in your app,"  Note : To modify a single raw contact , consider sending an intent to the device 's contacts application rather than handling the modification in your app ."
+10966,1,in your app,"  For a more detailed example on how to implement voice search to play audio content in your app , see the Universal Media Player sample ."
+40733,1,in your app,"  In your app , you can specify whether users see a list of possible companion devices or only one suggestion for a companion device ."
+35391,1,in your app,  You can use lifecycle-aware components to better manage the lifecycle of the activities in your app .
+10827,1,in your app,"  You can register a broadcast receiver in your app , preferably in your MediaBrowserService implementation and listen for this intent and adjust advertisements , metadata , and UI buttons in your app to operate safely in a vehicle ."
+49475,1,in your app,"  By providing increased contrast ratios between the foreground and background colors in your app , you make it easier for users to navigate within and between screens ."
+10770,1,in your app 's manifest -LRB- AndroidManifest.xml -RRB-,"  In your app 's manifest -LRB- AndroidManifest.xml -RRB- , provide a reference to the Auto XML configuration file you created in the previous section ."
+9867,3,in your app and requests to add it to the home screen,  User discovers a channel in your app and requests to add it to the home screen .
+49472,3,in your app has a large enough touch target,"  To ensure that each focusable item in your app has a large enough touch target , set the android : minWidth and android : minHeight attributes of each interactive element to 48dp or greater :"
+31261,1,in your app manifest that NFC is optional,"  To specify in your app manifest that NFC is optional , you use the following element :"
+48504,1,in your app such as increased RAM use,"  Regular protobufs generate extremely verbose code , which can cause many kinds of problems in your app such as increased RAM use , significant APK size increase , and slower execution ."
+30591,1,in your app that is accessible at install time,"  Tip : If you need to package a file in your app that is accessible at install time , save the file in your project 's res/raw / directory ."
+1147,1,in your application,"  Once you provide a resource in your application , you can apply it by referencing its resource ID ."
+55455,1,in your application,  Including the LVL library project in your application
+23384,1,in your application,"  Once you define the information model , you can begin to define the contexts necessary to enable users to effectively discover , view , and act upon the data in your application ."
+41065,1,in your application 's manifest file,"  You can specify an intent filter in your application 's manifest file , or do it in code as in the SipDemo sample application 's onCreate -LRB- -RRB- method of the application 's Activity :"
+37337,1,in your application 's the execution,"  Do not attempt to start face detection in the onCreate -LRB- -RRB- method of your camera app 's main activity , as the preview is not available by this point in your application 's the execution ."
+27156,3,in your application and do not obtain the smooth results you want,"  If you are running an animation in your application and do not obtain the smooth results you want , consider enabling hardware layers on your animated views ."
+39106,1,in your application manifest file,  Declare the Bluetooth permission -LRB- s -RRB- in your application manifest file .
+55872,1,in your applications,"  If you have questions or encounter problems while implementing or deploying publishing in your applications , please use the support resources listed in the table below ."
+18032,1,in your code,"  In your code , create a bundle and pass it to thedestination using the navigate -LRB- -RRB- method :"
+25940,1,in your code,"  Or to instead assign a state list animator to a view in your code , use the AnimatorInflater.loadStateListAnimator -LRB- -RRB- method , and assign the animator to your view with the View.setStateListAnimator -LRB- -RRB- method ."
+26675,1,in your code instead,"  To enable window content transitions in your code instead , call the Window.requestFeature -LRB- -RRB- method :"
+34164,3,in your code to get the thumbnail Bitmap,"  Call the loadContactPhotoThumbnail -LRB- -RRB- method in your code to get the thumbnail Bitmap , and use the result to set the photo thumbnail in your QuickContactBadge :"
+49954,1,in your device Settings,"  In your device Settings , select Sound , then set the media volume to zero ."
+52337,1,in your DPC,"  To use the Play EMM API , download the DPC Support Library and then enable managed configurations support in your DPC ."
+27491,1,in your drawn object 's constructor,"  Do this in your drawn object 's constructor , so it is only done once ."
+36479,3,in your game to allow users to personalize their own game controller mappings for game actions,  Tip : Consider providing a configuration screen in your game to allow users to personalize their own game controller mappings for game actions .
+7675,1,in your IME implementation,"  In your IME implementation , set the boolean supportsSwitchingToNextInputMethod = true to enable your IME to support the switching mechanism -LRB- so that apps can switch to the next platform-supported IME -RRB- ."
+44593,1,in your installed app,"  On devices runningAndroid 7.1 -LRB- API level 25 -RRB- and lower , you can transfer your Instant App ` sstorage data to your installed app by calling getInstantAppData -LRB- -RRB- in your installed app ."
+44751,1,in your instant app,  Consider using Firebase Dynamic Links to wrap your URLs and guarantee that links always open in your instant app .
+44239,1,in your instant app module 's build.gradle file,  Specify minSdkVersion = 21 in your instant app module 's build.gradle file
+17555,1,in your layout as follows,  Use this event handler in your layout as follows :
+17547,1,in your layout as shown in the following example,  You can use the adapter in your layout as shown in the following example .
+55829,1,in your main Activity,"  In your main Activity , add a call to the checkAccess -LRB- -RRB- method of the LicenseChecker instance ."
+30955,1,in your manifest,"  Similarly , you can advertise the data types that your activities support receiving from other applications by specifying them in your manifest ."
+32048,1,in your manifest file,"  To change this , set permissions for your provider in your manifest file , using attributes or child elements of the <provider> element ."
+7647,3,in your manifest file to make it a Wear-specific IME,"  To learn how to create an input method for wear , follow the guide to Creating an Input Method on handsets and add the following Google Play filters in your manifest file to make it a Wear-specific IME ."
+31030,1,in your menu resource file,"  To get started with ShareActionProviders , define the android : actionProviderClass attribute for the corresponding <item> in your menu resource file :"
+55731,1,in your Obfuscator,"  Before requesting new permissions for the sole purpose of acquiring device-specific information for use in your Obfuscator , consider how doing so might affect your application or its filtering on Google Play -LRB- since some permissions can cause the SDK build tools to add the associated <uses-feature> -RRB- ."
+30981,1,in your own ContentProvider,"  Store the data in your own ContentProvider , making sure that otherapps have the correct permission to access your provider ."
+37335,1,in your preview class,"  If you use the preview class shown in Creating a preview class , add your startFaceDetection -LRB- -RRB- method to both the surfaceCreated -LRB- -RRB- and surfaceChanged -LRB- -RRB- methods in your preview class , as shown in the sample code below ."
+9880,1,in your program,"  To work with channels and programs , be sure to include these support library imports in your program :"
+45845,1,in your project,  Make sure to specify AndroidJUnitRunner as the default instrumentation runner in your project .
+43162,1,in your project-level build.gradle,"  If you 're not using Android Studio , make sure to update the plugin in your project-level build.gradle , as shown in the following snippet :"
+18066,1,in your receiving destination 's code,"  In your receiving destination 's code , use the getArguments -LRB- -RRB- method to retrieve the bundle and use its contents :"
+10123,1,in your recommendation service class ' onHandleIntent -LRB- -RRB- method,"  In your recommendation service class ' onHandleIntent -LRB- -RRB- method , post the recommendation to the manager as follows :"
+10388,1,in your session 's getTvPlayer -LRB- -RRB- method,"  In your session 's getTvPlayer -LRB- -RRB- method , return your media player that implements TvPlayer ."
+45642,1,in your test,"  To use these methods in your test , import the org.hamcrest.Matchers package ."
+32639,1,in your test,"  Verify that this is the service that you want to use in your test , and tap Save ."
+48767,1,in your UI -RRB-,"  If your application is doing work in the background in response to user input , show that progress is being made -LRB- such as with a ProgressBar in your UI -RRB- ."
+45752,1,in your UI Automator test class,  Implement the following programming model in your UI Automator test class :
+22218,1,in your XML layout,"  To define the click event handler for a button , add the android : onClick attribute to the <Button> element in your XML layout ."
+5816,1,inside res /,"  To add support for more locales , create additional directories inside res / ."
+39833,1,inside the <activity> element like in the following example,"  In your AndroidManifest.xml file , specify the resource file that you just created in the <meta-data> element inside the <activity> element like in the following example :"
+8856,1,inside the Engine.onDraw -LRB- -RRB- method,"  When possible , avoid performing these operations inside the Engine.onDraw -LRB- -RRB- method :"
+42280,2,into a layer and then composite it back on screen with an opacity factor .,"  The functions below can be used to query the characteristics of an Allocation , Element , or Sampler object ."
+39198,2,into a shortcut at all .,  The current Android Bluetooth API 's require devices to be pairedbefore an RFCOMM connection can be established .
+35506,2,into groups for each account ensures that users can easily distinguish between them .,"  In response , the API updates your app periodically with the best available location , based on the currently-available location providers such as WiFi and GPS -LRB- Global Positioning System -RRB- ."
+48207,2,into its subfields within a table .,"  You may choose to increase the update frequency of a sports center app when it 's in the desktop dock , or disable your updates completely if the device is car docked ."
+54251,2,into onRestore LRB RRB .,"  Otherwise , the user will lose access to subscription ."
+17319,2,into reality in Prototype devices,  new
+44889,2,on a shaper to destroy it immediately .,  This shows a prompt to the user to install the regular APK version of the app .
+37807,2,on action items,  Table 1 .
+41555,2,on Android using various APIs for bitmaps,  The combiner function for this kernel performs addition ; zero is the identity value for addition .
+33273,2,on another device .,"  Collects the user 's name , password or similar information -LRB- the user 's credentials -RRB- ."
+10160,2,on designing great watch apps .,"  In your manifest file , the content provider receives special treatment ."
+325,2,on Mac RRB .,"  Because the system runs each app in a separate process with file permissions that restrict access to other apps , your app can not directly activate a component from another app ."
+5023,2,on platforms that support the runtime permissions model,"  Do n't let the cutout area obscure any important text , controls , or other information ."
+17173,2,on the Android device .,"  You can add all dependencies , or choose a subset ."
+51116,2,on the AutofillManager object .,"  Usually , this method corresponds to the user 's selecting a UI element , such as a button , in your activity ."
+24090,2,on the available screen space .,"  The DialogFragment class provides all the controls you need to create your dialog and manage its appearance , instead of calling methods on the Dialog object ."
+12873,2,on the canvas .,"  To push a software update for your products , you need to determine which update channel on which to push the update ."
+10221,2,on the configurations on the Creating,  The following sample code demonstrates this technique .
+6986,2,on the right and bottom edges .,"  Traditionally , Wear 1.0 APKs were embedded in phone APKs for distributing wearable apps to users ."
+10273,2,on the screen,  This element should be accessible with the D-pad navigation buttons .
+40940,2,on the spring .,"  In your activity , you can obtain the UsbDevice that represents the attached device from the intent like this :"
+33493,2,on the TextView 's characteristics and boundaries .,"  If an application or sync adapter creates a new raw contact that does match an existing contact , the new raw contact is aggregated to the existing contact ."
+14044,2,on TV devices configured to support USB debugging,  All
+21284,2,on your Chromebook .,  You must handle the padding values when you calculate your view 's size .
+30595,2,on your Intent object .,  You can not write to the original file .
+13947,1,under Linux,  See the full instructions for more information about installing Android Studio under Linux .
+34896,1,under Pending key/value backup,  Run adb shell dumpsys backup and check that your app is listed in the output of the command under Pending key/value backup .
+46073,1,under Settings > Developer options,"  On your device , under Settings > Developer options , disable the following 3 settings :"
+12733,1,under Sharing,"  To share your product with other Android Things Console users , click ADD MORE PEOPLE under Sharing ."
+32305,3,under the root of your document provider by overriding the queryRecentDocuments -LRB- -RRB- method and returning FLAG_SUPPORTS_RECENTS,"  You can provide a list of recently modified documents under the root of your document provider by overriding the queryRecentDocuments -LRB- -RRB- method and returning FLAG_SUPPORTS_RECENTS , The following code snippet shows an example of how to implement the queryRecentDocuments -LRB- -RRB- methods ."
+10166,2,with a custom layout .,  It inlcudes the android : searchSuggestAuthority attribute to tell the system the namespace of your content provider .
+14468,2,with a D pad on a TV device :,  The <data> element specifies the type of data that this activity can send .
+9851,2,with a phone .,  A channel contains cards for every program available on that channel :
+50486,2,with a unique request code .,  Services that are accessible to multiple applications should be accessed using AccountManager .
+23365,2,with a unique string .,  Java is a registered trademark of Oracle and/or its affiliates .
+48134,2,with a View and Android Persistence codelabs .,"  Almost all apps should be able to support Doze by managing network connectivity , alarms , jobs , and syncs properly , and by using FCM high-priority messages ."
+28529,2,with a View and Android Persistence codelabs .,  This means your app can receive new intents to start playback while its playback activity is already launched and active .
+14652,2,with a view holder for the card view that describes your media content items .,  Your activity does not reside in the Created state .
+38370,2,with a way to clear their search history .,"  If your issue has n't been reported , file a bug with the word Cronet in the summary line ."
+11408,2,with a WearableDrawerLayout object as the root view of the layout .,  Android Things provides you with a wide selection of developer kits that come with a supported SoM -LRB- System on Module -RRB- and a development board to get you started quickly .
+40148,2,with an Animation .,  In the first part of the exchange the HCE device will present its UID ; HCE devices should be assumed to have a random UID .
+33226,2,with an Animation RRB .,  Contacts Provider Intents .
+24435,2,with an Intent,"  For instance , figure 1 shows a screenshot from the Messaging app 's settings ."
+23424,2,with another,  Many desktop applications and websites offer a left-hand navigation pane or use a master/detail two-pane layout .
+50937,2,with autofill .,"  For example , you might choose to request a compatibility check upon login and run re-checks at most once every 30 minutes ."
+16400,2,with both D pad and game controllers .,  The following scenarios demonstrate a few use cases for each shortcut type :
+279,2,with ConstraintLayout .,  Resources that are separate from the app code and that allow your app togracefully optimize its behavior for a variety of device configurations .
+24396,2,with corresponding XML elements nested in the <intent filter> element .,"  So , it should only be used when creating a Menu in onCreateContextMenu -LRB- -RRB- ."
+28352,2,with either Room or PositionalDataSource,"  To provide a consistent media button experience across all apps , you should use the default behavior and only deviate for a specific purpose ."
+32608,2,with element attributes .,"  Then , replace the token property of the saved parameters with the token property of the parent activity in the onAttachedToWindow -LRB- -RRB- method ."
+30259,2,with JobScheduler .,"  Because a receiver 's onReceive -LRB- Context , Intent -RRB- method runs onthe main thread , it should execute and return quickly ."
+44885,2,with join = true .,  Use the isInstantApp -LRB- -RRB- method .
+13879,2,with just a directional pad and a select button .,"  To get proper input focus activation , you should follow the normal resource additions as outlined in the default Android API :"
+43186,2,with layout inspector .,  Consider an app with three dynamic feature modules and support for multiple device configurations .
+27496,2,with other developers .,"  Since drawing options can vary by shape , it 's a good idea to have your shape classes contain their own drawing logic ."
+3040,2,with other simple resources in the one XML file,  A provider can contain any number of <grant-uri-permission> elements .
+47328,2,with setPackage LRB String RRB when sending abroadcast .,  This helps you find individual janky framesmore accurately than visual inspection .
+37896,2,with startActivity LRB RRB during the appropriate on item selected callback method LRB such as the onOptionsItemSelected LRB RRB callback RRB .,  The offset of the standby clock that keeps time when the receiver resets theduty cycle of the primary oscillator .
+36059,2,with SYSTEM_UI_FLAG_FULLSCREEN and SYSTEM_UI_FLAG_HIDE_NAVIGATION .,  VelocityTracker helps you track the velocity of touch events .
+36905,2,with TaskStackBuilder .,  Override onStartInput -LRB- -RRB- or onStartInputView -LRB- -RRB- and read the list of supported content types from thetarget editor .
+48658,2,with that action item .,"  Depending on what your application does , this could be bad news ."
+52568,2,with that ID .,"  The device owner also receives ServiceConnection callbacks , such as onServiceDisconnected -LRB- -RRB- , if it 's bound to a service in a work profile that becomes unavailable ."
+30345,2,with the ACTION_SEND action,"  The net result is that the app might not finish doing the work until some arbitrary point in the future , which is not what you want ."
+1351,2,with the android package name .,"  xml -RRB- that includes a definition for text_a , but not for text_b :"
+3207,2,with the following manifest tag :,"  Whether or not the content provider is direct-boot aware ; that is , whether or not it can run before the user unlocks the device ."
+36844,2,with the ID android.R.id.home .,"  A value of false tells the system to treat all subtypes equally , regardless of what IME they belong to ."
+55410,2,with the isLocationAvailable LRB RRB method,"  A full test environment is also available through the SDK , so you can develop and test the licensing implementation in your applications before publishing them , even if you do n't have access to a physical device ."
+40406,2,with the LayoutTransition class .,  Your app has the ACCESS_FINE_LOCATION or ACCESS_COARSE_LOCATION permission .
+37339,2,with the message text .,  This feature uses MediaRecorder to record the images for a time lapse sequence .
+39889,2,with version specific implementations to provide backward compatibility .,"  If you still want to filter for scanned tags that do not contain an AAR , you can declare intent filters as normal ."
+3466,2,with Wide Color Content .,"  Strictly speaking , every application should always declare all features that it uses or requires , so the absence of a declaration for a feature used by an application should be considered an error ."
+28739,2,with WorkManager :,  The implementation of the methods in this class is entirely dependent on the programmatic interface provided by your receiving device .
+37083,2,with your implementation to apply your custom animations .,"  Well , having your preview surface destroyed is a pretty good hint that it 's time to stop the preview and release the camera , as shown in these methods from the Preview class ."
+42301,1,within a kernel,  Samplers objects define how Allocations can be read as structure within a kernel .
+25918,1,within a ViewGroup with the LayoutTransition class,  You can animate layout changes within a ViewGroup with the LayoutTransition class .
+30192,1,within an Activity context,"  For an example , if you register within an Activity context , you receive broadcasts as long asthe activity is not destroyed ."
+51602,1,within that directory,  Getting access to a specific external directory also gains access to subdirectories within that directory .
+30770,1,within the @Entity annotation,"  To add indices to an entity , include the indices property within the @Entity annotation , listing the names of the columns that you want to include in the index or composite index ."
+26283,1,within the minimum and the maximum range,  -LRB- Optional -RRB- Set a value range : Set the animation value range to restrain values within the minimum and the maximum range .
